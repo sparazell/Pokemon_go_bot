@@ -1,0 +1,10 @@
+PokemonID;Name;NickName;CP / MaxCP;IV Perfection in %;Attack 1;Attack 2;HP;Attk;Def;Stamina;Familie Candies;IsInGym;IsFavorite;previewLink
+111;Rhyhorn;;85/88;"88,08";MudSlapFast;HornAttack;36;15;13;9;6;;No;http://poke.isitin.org/#MTExLDMsMyw4NSwzNg==
+111;Rhyhorn;;15/16;"78,12";RockSmashFast;HornAttack;15;14;15;2;6;;No;http://poke.isitin.org/#MTExLDMsMSwxNSwxNQ==
+4;Charmander;;12/13;"65,26";ScratchFast;Flamethrower;10;10;10;10;3;;No;http://poke.isitin.org/#NCwzLDEsMTIsMTA=
+74;Geodude;;33/37;"54,21";RockThrowFast;Dig;14;13;2;6;3;;No;http://poke.isitin.org/#NzQsMywyLDMzLDE0
+41;Zubat;;10/10;"54,05";QuickAttackFast;AirCutter;10;8;12;6;6;;No;http://poke.isitin.org/#NDEsMywxLDEwLDEw
+52;Meowth;;10/10;"48,68";ScratchFast;NightSlash;10;7;13;4;3;;No;http://poke.isitin.org/#NTIsMywxLDEwLDEw
+23;Ekans;;10/11;"38,89";AcidFast;Wrap;10;5;10;5;3;;No;http://poke.isitin.org/#MjMsMywxLDEwLDEw
+35;Clefairy;;46/53;"38,38";PoundFast;BodySlam;24;5;8;6;3;;No;http://poke.isitin.org/#MzUsMywyLDQ2LDI0
+41;Zubat;;23/28;"34,54";QuickAttackFast;SludgeBomb;13;6;6;4;6;;No;http://poke.isitin.org/#NDEsMywyLDIzLDEz

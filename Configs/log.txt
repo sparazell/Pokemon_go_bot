@@ -1,0 +1,1795 @@
+[01:37:59] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[01:38:02] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:38:02] Level/EXP: 21 | 18 540/75 000 (24,72%) | EXP to Level up: 56460
+[01:38:02] PokeStops visited: 927 | KM Walked: 33,9
+[01:38:03] Pokemon: 174 + 9 Eggs /250 (46 Evolvable)
+[01:38:03] Pokedex Completion: 71/150 [47%]
+[01:38:04] Items: 325/350 | Stardust: 67 543
+[01:38:05] Evolved Bellsprout CP 576 56,16%  to Weepinbell CP: 908 for 1 000xp
+[01:38:08] Evolved Drowzee CP 544 68,84%  to Hypno CP: 1129 for 1 000xp
+[01:38:10] Evolved Psyduck CP 484 29,12%  to Golduck CP: 1098 for 1 000xp
+[01:38:22] Evolved Eevee CP 473 32,33%  to Jolteon CP: 988 for 1 000xp
+[01:38:24] Evolved Eevee CP 470 9,39%  to Vaporeon CP: 1338 for 1 000xp
+[01:38:28] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:38:28] Level/EXP: 21 | 23 540/75 000 (31,39%) | EXP to Level up: 51460
+[01:38:28] PokeStops visited: 927 | KM Walked: 33,9
+[01:38:29] Pokemon: 174 + 9 Eggs /250 (46 Evolvable)
+[01:38:29] Pokedex Completion: 76/150 [50%]
+[01:38:29] Items: 330/350 | Stardust: 67 543
+[01:38:30] Evolved Goldeen CP 468 75,31%  to Seaking CP: 1005 for 1 000xp
+[01:38:32] Evolved Bulbasaur CP 457 21,88%  to Ivysaur CP: 723 for 1 000xp
+[01:38:34] Evolved Eevee CP 447 32,76%  to Flareon CP: 1174 for 1 000xp
+[01:38:37] Evolved Pidgeotto CP 440 50,10%  to Pidgeot CP: 771 for 500xp
+[01:38:39] Evolved Gastly CP 395 63,45%  to Haunter CP: 696 for 500xp
+[01:38:42] Evolved Spearow CP 376 84,61%  to Fearow CP: 971 for 500xp
+[01:38:47] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:38:47] Level/EXP: 21 | 28 040/75 000 (37,39%) | EXP to Level up: 46960
+[01:38:47] PokeStops visited: 927 | KM Walked: 33,9
+[01:38:47] Pokemon: 174 + 9 Eggs /250 (33 Evolvable)
+[01:38:47] Pokedex Completion: 79/150 [52%]
+[01:38:48] Items: 333/350 | Stardust: 67 543
+[01:38:49] Evolved Poliwag CP 366 79,59%  to Poliwhirl CP: 626 for 500xp
+[01:38:51] Evolved Krabby CP 358 73,16%  to Kingler CP: 845 for 500xp
+[01:38:53] Evolved Oddish CP 350 86,73%  to Gloom CP: 519 for 500xp
+[01:38:55] Evolved Pidgey CP 324 73,58%  to Pidgeotto CP: 596 for 500xp
+[01:38:58] Evolved Pidgey CP 312 79,76%  to Pidgeotto CP: 573 for 500xp
+[01:39:00] Evolved Pidgey CP 300 30,90%  to Pidgeotto CP: 570 for 500xp
+[01:39:05] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:39:05] Level/EXP: 21 | 31 040/75 000 (41,39%) | EXP to Level up: 43960
+[01:39:05] PokeStops visited: 927 | KM Walked: 33,9
+[01:39:05] Pokemon: 174 + 9 Eggs /250 (33 Evolvable)
+[01:39:05] Pokedex Completion: 79/150 [52%]
+[01:39:06] Items: 333/350 | Stardust: 67 543
+[01:39:07] Evolved Pidgey CP 298 28,26%  to Pidgeotto CP: 568 for 500xp
+[01:39:09] Evolved Pidgey CP 297 83,91%  to Pidgeotto CP: 541 for 500xp
+[01:39:11] Evolved Pidgey CP 293 39,65%  to Pidgeotto CP: 555 for 500xp
+[01:39:14] Evolved Pidgey CP 287 33,88%  to Pidgeotto CP: 544 for 500xp
+[01:39:16] Evolved Pidgey CP 285 30,95%  to Pidgeotto CP: 539 for 500xp
+[01:39:18] Evolved Pidgey CP 282 65,75%  to Pidgeotto CP: 523 for 500xp
+[01:39:23] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:39:23] Level/EXP: 21 | 34 040/75 000 (45,39%) | EXP to Level up: 40960
+[01:39:23] PokeStops visited: 927 | KM Walked: 33,9
+[01:39:24] Pokemon: 174 + 9 Eggs /250 (22 Evolvable)
+[01:39:24] Pokedex Completion: 79/150 [52%]
+[01:39:25] Items: 333/350 | Stardust: 67 543
+[01:39:25] Evolved Rattata CP 281 79,50%  to Raticate CP: 713 for 500xp
+[01:39:27] Evolved Pidgey CP 279 84,55%  to Pidgeotto CP: 507 for 500xp
+[01:39:30] Evolved Pidgey CP 277 40,55%  to Pidgeotto CP: 521 for 500xp
+[01:39:32] Evolved Rattata CP 274 71,09%  to Raticate CP: 703 for 500xp
+[01:39:34] Evolved Pidgey CP 268 30,45%  to Pidgeotto CP: 510 for 500xp
+[01:39:36] Evolved Zubat CP 264 27,10%  to Golbat CP: 871 for 500xp
+[01:39:41] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:39:41] Level/EXP: 21 | 37 040/75 000 (49,39%) | EXP to Level up: 37960
+[01:39:41] PokeStops visited: 927 | KM Walked: 33,9
+[01:39:42] Pokemon: 174 + 9 Eggs /250 (22 Evolvable)
+[01:39:42] Pokedex Completion: 79/150 [52%]
+[01:39:42] Items: 333/350 | Stardust: 67 543
+[01:39:43] Evolved Rattata CP 263 77,34%  to Raticate CP: 671 for 500xp
+[01:39:45] Evolved Rattata CP 253 64,33%  to Raticate CP: 654 for 500xp
+[01:39:47] Evolved Pidgey CP 249 25,90%  to Pidgeotto CP: 474 for 500xp
+[01:39:50] Evolved Rattata CP 249 59,99%  to Raticate CP: 648 for 500xp
+[01:39:52] Evolved Rattata CP 248 77,34%  to Raticate CP: 631 for 500xp
+[01:39:54] Evolved Rattata CP 240 48,62%  to Raticate CP: 634 for 500xp
+[01:40:00] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:40:00] Level/EXP: 21 | 40 040/75 000 (53,39%) | EXP to Level up: 34960
+[01:40:00] PokeStops visited: 927 | KM Walked: 33,9
+[01:40:00] Pokemon: 174 + 9 Eggs /250 (10 Evolvable)
+[01:40:00] Pokedex Completion: 79/150 [52%]
+[01:40:01] Items: 333/350 | Stardust: 67 543
+[01:40:02] Failed to evolve Pidgey. EvolvePokemonOutProto.Result was FailedInsufficientResources
+[01:40:04] Evolved Rattata CP 236 28,14%  to Raticate CP: 645 for 500xp
+[01:40:06] Failed to evolve Pidgey. EvolvePokemonOutProto.Result was FailedInsufficientResources
+[01:40:08] Evolved Weedle CP 206 82,84%  to Kakuna CP: 223 for 500xp
+[01:40:11] Evolved Weedle CP 187 41,89%  to Kakuna CP: 202 for 500xp
+[01:40:13] Evolved Weedle CP 164 38,32%  to Kakuna CP: 180 for 500xp
+[01:40:18] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:40:18] Level/EXP: 21 | 42 040/75 000 (56,05%) | EXP to Level up: 32960
+[01:40:18] PokeStops visited: 927 | KM Walked: 33,9
+[01:40:19] Pokemon: 174 + 9 Eggs /250 (10 Evolvable)
+[01:40:19] Pokedex Completion: 79/150 [52%]
+[01:40:20] Items: 333/350 | Stardust: 67 543
+[01:40:21] Evolved Weedle CP 162 21,61%  to Kakuna CP: 174 for 500xp
+[01:40:23] Evolved Weedle CP 152 53,74%  to Kakuna CP: 165 for 500xp
+[01:40:26] Evolved Caterpie CP 151 37,75%  to Metapod CP: 160 for 500xp
+[01:40:28] Evolved Weedle CP 134 40,07%  to Kakuna CP: 143 for 500xp
+[01:40:31] Evolved Caterpie CP 96 53,94%  to Metapod CP: 105 for 500xp
+[01:40:35] Egg (5km) need to walk 1,04 km.
+[01:40:35] Egg (10km) need to walk 1,16 km.
+[01:40:35] Egg (10km) need to walk 6,21 km.
+[01:40:38] Transfer Magikarp CP 108 IV 53,53 % (Best IV: 98,80 %)
+[01:40:40] Transfer Magikarp CP 115 IV 44,69 % (Best IV: 98,80 %)
+[01:40:41] Transfer Pidgeotto CP 596 IV 74,01 % (Best IV: 84,35 %)
+[01:40:42] Transfer Pidgeotto CP 523 IV 68,13 % (Best IV: 84,35 %)
+[01:40:44] Transfer Pidgeotto CP 555 IV 41,70 % (Best IV: 84,35 %)
+[01:40:45] Transfer Pidgeotto CP 521 IV 39,46 % (Best IV: 84,35 %)
+[01:40:47] Transfer Pidgeotto CP 306 IV 38,49 % (Best IV: 84,35 %)
+[01:40:48] Transfer Pidgeotto CP 544 IV 33,31 % (Best IV: 84,35 %)
+[01:40:50] Transfer Pidgeotto CP 510 IV 30,36 % (Best IV: 84,35 %)
+[01:40:51] Transfer Pidgeotto CP 570 IV 29,98 % (Best IV: 84,35 %)
+[01:40:52] Transfer Pidgeotto CP 539 IV 29,33 % (Best IV: 84,35 %)
+[01:40:54] Transfer Pidgeotto CP 568 IV 28,82 % (Best IV: 84,35 %)
+[01:40:55] Transfer Pidgeotto CP 474 IV 25,02 % (Best IV: 84,35 %)
+[01:40:57] Transfer Pidgeotto CP 290 IV 15,95 % (Best IV: 84,35 %)
+[01:40:58] Transfer Kakuna CP 180 IV 40,54 % (Best IV: 83,66 %)
+[01:41:00] Transfer Kakuna CP 202 IV 39,62 % (Best IV: 83,66 %)
+[01:41:01] Transfer Kakuna CP 143 IV 34,39 % (Best IV: 83,66 %)
+[01:41:02] Transfer Kakuna CP 95 IV 27,67 % (Best IV: 83,66 %)
+[01:41:05] Transfer Kakuna CP 159 IV 25,09 % (Best IV: 83,66 %)
+[01:41:06] Transfer Kakuna CP 174 IV 17,98 % (Best IV: 83,66 %)
+[01:41:07] Transfer Staryu CP 116 IV 65,99 % (Best IV: 94,39 %)
+[01:41:09] Transfer Metapod CP 160 IV 31,97 % (Best IV: 63,58 %)
+[01:41:10] Transfer Metapod CP 98 IV 12,89 % (Best IV: 63,58 %)
+[01:41:11] Transfer Raticate CP 703 IV 71,80 % (Best IV: 79,44 %)
+[01:41:13] Transfer Raticate CP 263 IV 64,88 % (Best IV: 79,44 %)
+[01:41:14] Transfer Raticate CP 654 IV 64,68 % (Best IV: 79,44 %)
+[01:41:16] Transfer Raticate CP 648 IV 60,03 % (Best IV: 79,44 %)
+[01:41:17] Transfer Raticate CP 634 IV 49,54 % (Best IV: 79,44 %)
+[01:41:19] Transfer Raticate CP 332 IV 47,97 % (Best IV: 79,44 %)
+[01:41:20] Transfer Raticate CP 645 IV 30,94 % (Best IV: 79,44 %)
+[01:41:21] Transfer Grimer CP 51 IV 48,28 % (Best IV: 68,72 %)
+[01:41:23] Transfer Grimer CP 642 IV 38,03 % (Best IV: 68,72 %)
+[01:41:25] Recycled 35x ItemPokeBall
+[01:41:26] Recycled 4x ItemGreatBall
+[01:41:28] Recycled 2x ItemPotion
+[01:41:29] Recycled 3x ItemSuperPotion
+[01:41:31] Recycled 5x ItemRevive
+[01:41:33] We found 183 usable PokeStops near your current location.
+[01:41:37] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:41:37] Level/EXP: 21 | 44 540/75 000 (59,39%) | EXP to Level up: 30460
+[01:41:37] PokeStops visited: 927 | KM Walked: 33,9
+[01:41:38] Pokemon: 142 + 9 Eggs /250 (2 Evolvable)
+[01:41:38] Pokedex Completion: 79/150 [52%]
+[01:41:39] Items: 301/350 | Stardust: 67 543
+[01:41:42] Evolved Bulbasaur CP 411 26,38%  to Ivysaur CP: 647 for 500xp
+[01:41:44] Evolved Pidgey CP 238 54,04%  to Pidgeotto CP: 443 for 500xp
+[01:41:49] Egg (5km) need to walk 1,04 km.
+[01:41:49] Egg (10km) need to walk 1,16 km.
+[01:41:49] Egg (10km) need to walk 6,21 km.
+[01:41:52] Transfer Pidgeotto CP 443 IV 53,26 % (Best IV: 84,35 %)
+[01:41:54] Next Pokestop: Obélisque in Place de la Concorde in 39,86m distance.
+[01:41:54] Distance to target location: 39,86 meters. Will take 7,18 seconds!
+[01:41:57] Found 2 catchable Pokemon(s).
+[01:42:00] Encountered Weedle CP 23  IV 9,19% Probability 93%
+[01:42:00] Caught Weedle CP 23 IV 9,19% using ItemPokeBall got 210 XP.
+[01:42:06] Encountered Ekans CP 118  IV 47,87% Probability 62%
+[01:42:07] Caught Ekans CP 118 IV 47,87% using ItemPokeBall got 210 XP.
+[01:42:09] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:42:14] Farmed XP: 50, Items: 2 x ItemPokeBall, 2 x ItemRevive
+[01:42:19] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:42:19] Level/EXP: 21 | 46 010/75 000 (61,35%) | EXP to Level up: 28990
+[01:42:19] PokeStops visited: 928 | KM Walked: 33,9
+[01:42:20] Pokemon: 143 + 9 Eggs /250 (1 Evolvable)
+[01:42:20] Pokedex Completion: 79/150 [52%]
+[01:42:21] Items: 302/350 | Stardust: 67 743
+[01:42:24] Evolved Weedle CP 23 9,19%  to Kakuna CP: 25 for 500xp
+[01:42:28] Egg (5km) need to walk 1,04 km.
+[01:42:28] Egg (10km) need to walk 1,16 km.
+[01:42:28] Egg (10km) need to walk 6,21 km.
+[01:42:31] Transfer Kakuna CP 25 IV 9,65 % (Best IV: 83,66 %)
+[01:42:33] Next Pokestop: La Renommée montée sur Pégase, Jardin des Tuileries in 110,33m distance.
+[01:42:33] Distance to target location: 110,33 meters. Will take 20,9 seconds!
+[01:42:47] Found 2 catchable Pokemon(s).
+[01:42:50] Encountered Rattata CP 37  IV 56,78% Probability 93%
+[01:42:51] Caught Rattata CP 37 IV 56,78% using ItemPokeBall got 210 XP.
+[01:42:55] Encountered Pinsir CP 865  IV 69,50% Probability 23%
+[01:43:00] Thrown ItemRazzBerry. Remaining: 61.
+[01:43:01] Caught Pinsir CP 865 IV 69,50% using ItemGreatBall got 210 XP.
+[01:43:04] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:43:06] Found 1 catchable Pokemon(s).
+[01:43:08] Encountered Poliwag CP 378  IV 32,67% Probability 33%
+[01:43:14] Thrown ItemRazzBerry. Remaining: 60.
+[01:43:15] Caught Poliwag CP 378 IV 32,67% using ItemPokeBall got 210 XP.
+[01:43:19] Found 1 catchable Pokemon(s).
+[01:43:21] Encountered Poliwrath CP 102  IV 49,29% Probability 30%
+[01:43:26] Thrown ItemRazzBerry. Remaining: 59.
+[01:43:27] Caught New Poliwrath CP 102 IV 49,29% using ItemPokeBall got 710 XP.
+[01:43:30] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemRazzBerry
+[01:43:35] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:43:35] Level/EXP: 21 | 47 900/75 000 (63,87%) | EXP to Level up: 27100
+[01:43:35] PokeStops visited: 929 | KM Walked: 33,9
+[01:43:36] Pokemon: 146 + 9 Eggs /250 (1 Evolvable)
+[01:43:36] Pokedex Completion: 80/150 [53%]
+[01:43:37] Items: 306/350 | Stardust: 68 143
+[01:43:40] Evolved Rattata CP 37 56,78%  to Raticate CP: 99 for 500xp
+[01:43:45] Egg (5km) need to walk 1,04 km.
+[01:43:45] Egg (10km) need to walk 1,16 km.
+[01:43:45] Egg (10km) need to walk 6,21 km.
+[01:43:48] Transfer Pinsir CP 865 IV 69,50 % (Best IV: 77,92 %)
+[01:43:49] Transfer Raticate CP 99 IV 59,19 % (Best IV: 79,44 %)
+[01:43:51] Next Pokestop: André Le Nôtre in 43,38m distance.
+[01:43:51] Distance to target location: 43,38 meters. Will take 8,68 seconds!
+[01:43:53] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:43:59] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:44:02] Next Pokestop: Grande roue de la Concorde in 37,22m distance.
+[01:44:02] Distance to target location: 37,22 meters. Will take 13,4 seconds!
+[01:44:11] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemPotion
+[01:44:16] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:44:16] Level/EXP: 21 | 48 500/75 000 (64,67%) | EXP to Level up: 26500
+[01:44:16] PokeStops visited: 931 | KM Walked: 33,91
+[01:44:17] Pokemon: 144 + 9 Eggs /250 (0 Evolvable)
+[01:44:17] Pokedex Completion: 80/150 [53%]
+[01:44:17] Items: 304/350 | Stardust: 68 143
+[01:44:22] Egg (5km) need to walk 1,04 km.
+[01:44:22] Egg (10km) need to walk 1,16 km.
+[01:44:22] Egg (10km) need to walk 6,2 km.
+[01:44:26] Next Pokestop: Grand Commandement Blanc 1985 in 63,83m distance.
+[01:44:26] Distance to target location: 63,83 meters. Will take 32,83 seconds!
+[01:44:47] Found 1 catchable Pokemon(s).
+[01:44:50] Encountered Growlithe CP 561  IV 32,34% Probability 22%
+[01:44:55] Thrown ItemRazzBerry. Remaining: 59.
+[01:44:57] Caught Growlithe CP 561 IV 32,34% using ItemGreatBall got 210 XP.
+[01:44:59] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[01:45:01] Next Pokestop: Concorde - Lyon in 56,5m distance.
+[01:45:01] Distance to target location: 56,5 meters. Will take 10,17 seconds!
+[01:45:07] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:45:12] Farmed XP: 50, Items: 2 x ItemRevive, 1 x ItemPotion
+[01:45:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:45:17] Level/EXP: 21 | 48 810/75 000 (65,08%) | EXP to Level up: 26190
+[01:45:17] PokeStops visited: 933 | KM Walked: 33,91
+[01:45:18] Pokemon: 145 + 9 Eggs /250 (0 Evolvable)
+[01:45:18] Pokedex Completion: 80/150 [53%]
+[01:45:19] Items: 305/350 | Stardust: 68 243
+[01:45:22] Egg (5km) need to walk 1,04 km.
+[01:45:22] Egg (10km) need to walk 1,16 km.
+[01:45:22] Egg (10km) need to walk 6,2 km.
+[01:45:27] Next Pokestop: Marseille in 68,88m distance.
+[01:45:27] Distance to target location: 68,88 meters. Will take 13,05 seconds!
+[01:45:37] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:45:41] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:45:44] Next Pokestop: Histoire De Paris - Porte de la Conférence  in 84,32m distance.
+[01:45:44] Distance to target location: 84,32 meters. Will take 33,73 seconds!
+[01:46:10] Farmed XP: 50, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[01:46:13] Next Pokestop: Bateaux du port des Champs Elysées in 82,07m distance.
+[01:46:13] Distance to target location: 82,07 meters. Will take 42,21 seconds!
+[01:46:47] Farmed XP: 50, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[01:46:52] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:46:52] Level/EXP: 21 | 48 960/75 000 (65,28%) | EXP to Level up: 26040
+[01:46:52] PokeStops visited: 936 | KM Walked: 33,91
+[01:46:53] Pokemon: 145 + 9 Eggs /250 (0 Evolvable)
+[01:46:53] Pokedex Completion: 80/150 [53%]
+[01:46:53] Items: 305/350 | Stardust: 68 243
+[01:46:58] Egg (5km) need to walk 1,04 km.
+[01:46:58] Egg (10km) need to walk 1,16 km.
+[01:46:58] Egg (10km) need to walk 6,2 km.
+[01:47:01] Next Pokestop: Obelisco Place De La Concorde in 115,87m distance.
+[01:47:01] Distance to target location: 115,87 meters. Will take 26,07 seconds!
+[01:47:21] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:47:26] Farmed XP: 100, Items: 4 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:47:28] Next Pokestop: Paris in 64,38m distance.
+[01:47:28] Distance to target location: 64,38 meters. Will take 14,49 seconds!
+[01:47:36] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:47:37] Found 1 catchable Pokemon(s).
+[01:47:40] Encountered Weedle CP 83  IV 46,14% Probability 53%
+[01:47:40] Caught Weedle CP 83 IV 46,14% using ItemPokeBall got 210 XP.
+[01:47:46] Found 1 catchable Pokemon(s).
+[01:47:49] Encountered Horsea CP 53  IV 63,87% Probability 93%
+[01:47:50] Caught Horsea CP 53 IV 63,87% using ItemPokeBall got 210 XP.
+[01:47:54] Farmed XP: 50, Items: 3 x ItemPokeBall
+[01:47:59] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:47:59] Level/EXP: 21 | 49 530/75 000 (66,04%) | EXP to Level up: 25470
+[01:47:59] PokeStops visited: 938 | KM Walked: 34,18
+[01:48:00] Pokemon: 147 + 9 Eggs /250 (0 Evolvable)
+[01:48:00] Pokedex Completion: 80/150 [53%]
+[01:48:01] Items: 307/350 | Stardust: 68 443
+[01:48:05] Egg (5km) need to walk 0,77 km.
+[01:48:05] Egg (10km) need to walk 0,89 km.
+[01:48:05] Egg (10km) need to walk 5,93 km.
+[01:48:07] Transfer Horsea CP 53 IV 63,87 % (Best IV: 77,05 %)
+[01:48:09] Next Pokestop: Cours La Reine in 41,08m distance.
+[01:48:09] Distance to target location: 41,08 meters. Will take 7,04 seconds!
+[01:48:11] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:48:18] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:48:21] Next Pokestop: Albert I in 73,42m distance.
+[01:48:21] Distance to target location: 73,42 meters. Will take 13,91 seconds!
+[01:48:28] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:48:35] Farmed XP: 50, Items: 3 x ItemPokeBall
+[01:48:37] Next Pokestop: Gloriette in 107,5m distance.
+[01:48:37] Distance to target location: 107,5 meters. Will take 18,43 seconds!
+[01:48:51] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:48:56] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:49:01] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:49:01] Level/EXP: 21 | 49 680/75 000 (66,24%) | EXP to Level up: 25320
+[01:49:01] PokeStops visited: 941 | KM Walked: 34,18
+[01:49:02] Pokemon: 146 + 9 Eggs /250 (0 Evolvable)
+[01:49:02] Pokedex Completion: 80/150 [53%]
+[01:49:03] Items: 306/350 | Stardust: 68 443
+[01:49:07] Egg (5km) need to walk 0,77 km.
+[01:49:07] Egg (10km) need to walk 0,89 km.
+[01:49:07] Egg (10km) need to walk 5,93 km.
+[01:49:10] Next Pokestop: Fontaine Wallace a Proximite De La Concorde in 74,48m distance.
+[01:49:10] Distance to target location: 74,48 meters. Will take 29,79 seconds!
+[01:49:33] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[01:49:36] Next Pokestop: Cheval De Marly in 86,96m distance.
+[01:49:36] Distance to target location: 86,96 meters. Will take 34,78 seconds!
+[01:49:53] Found 2 catchable Pokemon(s).
+[01:49:56] Encountered Weedle CP 134  IV 39,90% Probability 42%
+[01:49:56] Weedle escaped while using ItemPokeBall
+[01:49:57] Caught Weedle CP 134 IV 39,90% using ItemPokeBall got 210 XP.
+[01:50:02] Encountered Tangela CP 710  IV 72,76% Probability 31%
+[01:50:07] Thrown ItemRazzBerry. Remaining: 59.
+[01:50:08] Caught Tangela CP 710 IV 72,76% using ItemGreatBall got 210 XP.
+[01:50:16] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[01:50:21] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:50:21] Level/EXP: 21 | 50 200/75 000 (66,93%) | EXP to Level up: 24800
+[01:50:21] PokeStops visited: 943 | KM Walked: 34,18
+[01:50:22] Pokemon: 148 + 9 Eggs /250 (1 Evolvable)
+[01:50:22] Pokedex Completion: 80/150 [53%]
+[01:50:23] Items: 308/350 | Stardust: 68 643
+[01:50:26] Evolved Weedle CP 134 39,90%  to Kakuna CP: 144 for 500xp
+[01:50:30] Egg (5km) need to walk 0,77 km.
+[01:50:30] Egg (10km) need to walk 0,89 km.
+[01:50:30] Egg (10km) need to walk 5,93 km.
+[01:50:33] Transfer Kakuna CP 144 IV 37,22 % (Best IV: 83,66 %)
+[01:50:35] Next Pokestop: Place de la Concorde in 50,56m distance.
+[01:50:35] Distance to target location: 50,56 meters. Will take 10,11 seconds!
+[01:50:39] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:50:44] Farmed XP: 50, Items: 1 x ItemRevive, 1 x ItemPotion, 1 x ItemUltraBall
+[01:50:46] Next Pokestop: Fontaine Wallace Concorde in 37,25m distance.
+[01:50:46] Distance to target location: 37,25 meters. Will take 8,94 seconds!
+[01:50:48] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:50:53] Farmed XP: 50, Items: 3 x ItemPokeBall
+[01:50:58] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:50:58] Level/EXP: 21 | 50 800/75 000 (67,73%) | EXP to Level up: 24200
+[01:50:58] PokeStops visited: 945 | KM Walked: 34,18
+[01:50:58] Pokemon: 147 + 9 Eggs /250 (0 Evolvable)
+[01:50:58] Pokedex Completion: 80/150 [53%]
+[01:50:59] Items: 307/350 | Stardust: 68 643
+[01:51:04] Egg (5km) need to walk 0,77 km.
+[01:51:04] Egg (10km) need to walk 0,89 km.
+[01:51:04] Egg (10km) need to walk 5,93 km.
+[01:51:07] Next Pokestop: Brest in 73,24m distance.
+[01:51:07] Distance to target location: 73,24 meters. Will take 26,37 seconds!
+[01:51:09] Found 1 catchable Pokemon(s).
+[01:51:11] Encountered Doduo CP 162  IV 35,57% Probability 53%
+[01:51:12] Caught Doduo CP 162 IV 35,57% using ItemPokeBall got 210 XP.
+[01:51:28] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:51:31] Next Pokestop: The Open Door of 8th in 53,62m distance.
+[01:51:31] Distance to target location: 53,62 meters. Will take 27,58 seconds!
+[01:51:50] Farmed XP: 100, Items: 4 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:51:55] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:51:55] Level/EXP: 21 | 51 160/75 000 (68,21%) | EXP to Level up: 23840
+[01:51:55] PokeStops visited: 947 | KM Walked: 34,18
+[01:51:56] Pokemon: 148 + 9 Eggs /250 (0 Evolvable)
+[01:51:56] Pokedex Completion: 80/150 [53%]
+[01:51:56] Items: 308/350 | Stardust: 68 743
+[01:52:01] Egg (5km) need to walk 0,77 km.
+[01:52:01] Egg (10km) need to walk 0,89 km.
+[01:52:01] Egg (10km) need to walk 5,93 km.
+[01:52:05] Next Pokestop: Brunnen am Champs Elysées in 70,68m distance.
+[01:52:05] Distance to target location: 70,68 meters. Will take 12,72 seconds!
+[01:52:13] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:52:17] Farmed XP: 50, Items: 3 x ItemPokeBall
+[01:52:20] Next Pokestop: Paris. Statue de la ville de S in 91,05m distance.
+[01:52:20] Distance to target location: 91,05 meters. Will take 36,42 seconds!
+[01:52:33] Found 1 catchable Pokemon(s).
+[01:52:35] Encountered Geodude CP 34  IV 68,56% Probability 100%
+[01:52:36] Caught New Geodude CP 34 IV 68,56% using ItemPokeBall got 710 XP.
+[01:52:49] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion
+[01:52:54] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:52:54] Level/EXP: 21 | 51 970/75 000 (69,29%) | EXP to Level up: 23030
+[01:52:54] PokeStops visited: 949 | KM Walked: 34,41
+[01:52:55] Pokemon: 149 + 9 Eggs /250 (0 Evolvable)
+[01:52:55] Pokedex Completion: 81/150 [54%]
+[01:52:56] Items: 311/350 | Stardust: 68 843
+[01:53:01] Egg (5km) need to walk 0,53 km.
+[01:53:01] Egg (10km) need to walk 0,65 km.
+[01:53:01] Egg (10km) need to walk 5,7 km.
+[01:53:04] Next Pokestop: Place de la Concorde in 48,73m distance.
+[01:53:04] Distance to target location: 48,73 meters. Will take 8,35 seconds!
+[01:53:08] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:53:13] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:53:15] Next Pokestop: Louise Bourgeois  in 49,91m distance.
+[01:53:15] Distance to target location: 49,91 meters. Will take 11,98 seconds!
+[01:53:20] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:53:25] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:53:28] Next Pokestop: Le Lion Du Jeu De Paume in 63,09m distance.
+[01:53:28] Distance to target location: 63,09 meters. Will take 32,44 seconds!
+[01:53:42] Found 1 catchable Pokemon(s).
+[01:53:45] Encountered Weedle CP 80  IV 35,12% Probability 53%
+[01:53:45] Weedle escaped while using ItemPokeBall
+[01:53:46] Caught Weedle CP 80 IV 35,12% using ItemPokeBall got 210 XP.
+[01:53:50] Found 1 catchable Pokemon(s).
+[01:53:52] Encountered Rattata CP 263  IV 28,98% Probability 33%
+[01:53:57] Thrown ItemRazzBerry. Remaining: 59.
+[01:53:58] Rattata escaped while using ItemPokeBall
+[01:54:03] Thrown ItemRazzBerry. Remaining: 59.
+[01:54:05] Caught Rattata CP 263 IV 28,98% using ItemPokeBall got 210 XP.
+[01:54:12] Farmed XP: 50, Items: 2 x ItemRazzBerry, 1 x ItemGreatBall
+[01:54:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:54:17] Level/EXP: 21 | 52 540/75 000 (70,05%) | EXP to Level up: 22460
+[01:54:17] PokeStops visited: 952 | KM Walked: 34,41
+[01:54:18] Pokemon: 151 + 9 Eggs /250 (0 Evolvable)
+[01:54:18] Pokedex Completion: 81/150 [54%]
+[01:54:19] Items: 313/350 | Stardust: 69 043
+[01:54:23] Egg (5km) need to walk 0,53 km.
+[01:54:23] Egg (10km) need to walk 0,65 km.
+[01:54:23] Egg (10km) need to walk 5,7 km.
+[01:54:26] Next Pokestop: Paye Ta Colonne ! in 45,24m distance.
+[01:54:26] Distance to target location: 45,24 meters. Will take 18,1 seconds!
+[01:54:37] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 2 x ItemGreatBall
+[01:54:39] Next Pokestop: Gravure Sur Haut De Porte 4 in 95,18m distance.
+[01:54:39] Distance to target location: 95,18 meters. Will take 21,41 seconds!
+[01:54:53] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:55:00] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemHyperPotion
+[01:55:02] Next Pokestop: L'invention Du Parapluie  in 119,57m distance.
+[01:55:02] Distance to target location: 119,57 meters. Will take 53,81 seconds!
+[01:55:16] Found 1 catchable Pokemon(s).
+[01:55:19] Encountered Rattata CP 246  IV 24,82% Probability 34%
+[01:55:24] Thrown ItemRazzBerry. Remaining: 59.
+[01:55:25] Caught Rattata CP 246 IV 24,82% using ItemPokeBall got 210 XP.
+[01:55:37] Found 1 catchable Pokemon(s).
+[01:55:39] Encountered Weedle CP 59  IV 38,82% Probability 62%
+[01:55:40] Caught Weedle CP 59 IV 38,82% using ItemPokeBall got 210 XP.
+[01:55:48] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:55:54] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:55:54] Level/EXP: 21 | 53 110/75 000 (70,81%) | EXP to Level up: 21890
+[01:55:54] PokeStops visited: 955 | KM Walked: 34,41
+[01:55:55] Pokemon: 153 + 9 Eggs /250 (0 Evolvable)
+[01:55:55] Pokedex Completion: 81/150 [54%]
+[01:55:56] Items: 315/350 | Stardust: 69 243
+[01:56:00] Egg (5km) need to walk 0,53 km.
+[01:56:00] Egg (10km) need to walk 0,65 km.
+[01:56:00] Egg (10km) need to walk 5,7 km.
+[01:56:04] Next Pokestop: Floppy Invader StreetArt in 49,53m distance.
+[01:56:04] Distance to target location: 49,53 meters. Will take 11,89 seconds!
+[01:56:07] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:56:13] Found 1 catchable Pokemon(s).
+[01:56:15] Encountered Pidgey CP 10  IV 34,01% Probability 100%
+[01:56:16] Caught Pidgey CP 10 IV 34,01% using ItemPokeBall got 210 XP.
+[01:56:19] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:56:22] Next Pokestop: Manège Duphot in 87,46m distance.
+[01:56:22] Distance to target location: 87,46 meters. Will take 26,24 seconds!
+[01:56:35] Found 1 catchable Pokemon(s).
+[01:56:38] Encountered Rattata CP 100  IV 59,60% Probability 57%
+[01:56:38] Caught Rattata CP 100 IV 59,60% using ItemPokeBall got 210 XP.
+[01:56:44] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:56:46] Farmed XP: 100, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemGreatBall
+[01:56:51] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:56:51] Level/EXP: 21 | 53 680/75 000 (71,57%) | EXP to Level up: 21320
+[01:56:51] PokeStops visited: 957 | KM Walked: 34,84
+[01:56:52] Pokemon: 155 + 9 Eggs /250 (0 Evolvable)
+[01:56:52] Pokedex Completion: 81/150 [54%]
+[01:56:53] Items: 317/350 | Stardust: 69 443
+[01:56:58] Egg (5km) need to walk 0,11 km.
+[01:56:58] Egg (10km) need to walk 0,23 km.
+[01:56:58] Egg (10km) need to walk 5,28 km.
+[01:57:02] Next Pokestop: Blason Blanc in 67,57m distance.
+[01:57:02] Distance to target location: 67,57 meters. Will take 12,8 seconds!
+[01:57:09] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:57:14] Farmed XP: 50, Items: 3 x ItemPokeBall
+[01:57:16] Next Pokestop: Anciennes Toilettes Publiques Dames  in 110,14m distance.
+[01:57:16] Distance to target location: 110,14 meters. Will take 44,05 seconds!
+[01:57:54] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[01:57:57] Next Pokestop: Space Invaders in 58,01m distance.
+[01:57:57] Distance to target location: 58,01 meters. Will take 17,4 seconds!
+[01:58:04] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:58:12] Farmed XP: 50, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[01:58:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:58:17] Level/EXP: 21 | 53 830/75 000 (71,77%) | EXP to Level up: 21170
+[01:58:17] PokeStops visited: 960 | KM Walked: 34,84
+[01:58:18] Pokemon: 155 + 9 Eggs /250 (0 Evolvable)
+[01:58:18] Pokedex Completion: 81/150 [54%]
+[01:58:19] Items: 317/350 | Stardust: 69 443
+[01:58:23] Egg (5km) need to walk 0,11 km.
+[01:58:23] Egg (10km) need to walk 0,23 km.
+[01:58:23] Egg (10km) need to walk 5,28 km.
+[01:58:27] Next Pokestop: La Justice in 56,43m distance.
+[01:58:27] Distance to target location: 56,43 meters. Will take 14,51 seconds!
+[01:58:32] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:58:39] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[01:58:43] Next Pokestop: Church of Madeleine in 52,97m distance.
+[01:58:43] Distance to target location: 52,97 meters. Will take 23,84 seconds!
+[01:58:59] Farmed XP: 50, Items: 3 x ItemPokeBall, 1 x ItemRevive
+[01:59:01] Next Pokestop: Concept Cheval Lampe in 40,2m distance.
+[01:59:01] Distance to target location: 40,2 meters. Will take 18,09 seconds!
+[01:59:12] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:59:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[01:59:17] Level/EXP: 21 | 53 980/75 000 (71,97%) | EXP to Level up: 21020
+[01:59:17] PokeStops visited: 963 | KM Walked: 34,84
+[01:59:18] Pokemon: 155 + 9 Eggs /250 (0 Evolvable)
+[01:59:18] Pokedex Completion: 81/150 [54%]
+[01:59:19] Items: 317/350 | Stardust: 69 443
+[01:59:23] Egg (5km) need to walk 0,11 km.
+[01:59:23] Egg (10km) need to walk 0,23 km.
+[01:59:23] Egg (10km) need to walk 5,28 km.
+[01:59:26] Next Pokestop: Fauchon La Madeleine in 72,48m distance.
+[01:59:26] Distance to target location: 72,48 meters. Will take 20,07 seconds!
+[01:59:38] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[01:59:43] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[01:59:45] Next Pokestop: Plaque Hommage Carlotta Zambelli in 113,82m distance.
+[01:59:45] Distance to target location: 113,82 meters. Will take 24,1 seconds!
+[02:00:03] Found 1 catchable Pokemon(s).
+[02:00:05] Encountered Rattata CP 244  IV 37,18% Probability 35%
+[02:00:06] Caught Rattata CP 244 IV 37,18% using ItemPokeBall got 210 XP.
+[02:00:08] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:00:13] Farmed XP: 50, Items: 1 x ItemHyperPotion, 1 x ItemPotion, 1 x ItemRazzBerry
+[02:00:18] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:00:18] Level/EXP: 21 | 54 290/75 000 (72,39%) | EXP to Level up: 20710
+[02:00:18] PokeStops visited: 965 | KM Walked: 34,84
+[02:00:19] Pokemon: 156 + 9 Eggs /250 (0 Evolvable)
+[02:00:19] Pokedex Completion: 81/150 [54%]
+[02:00:20] Items: 318/350 | Stardust: 69 543
+[02:00:25] Egg (5km) need to walk 0,11 km.
+[02:00:25] Egg (10km) need to walk 0,23 km.
+[02:00:25] Egg (10km) need to walk 5,28 km.
+[02:00:27] Transfer Rattata CP 246 IV 24,82 % (Best IV: 59,60 %)
+[02:00:30] Next Pokestop: Belle Porte Arcade in 90,45m distance.
+[02:00:30] Distance to target location: 90,45 meters. Will take 25,05 seconds!
+[02:00:39] Found 1 catchable Pokemon(s).
+[02:00:41] Encountered Rattata CP 225  IV 47,86% Probability 37%
+[02:00:42] Caught Rattata CP 225 IV 47,86% using ItemPokeBall got 210 XP.
+[02:00:47] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:00:52] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:00:55] Next Pokestop: Choco Tiger in 70,83m distance.
+[02:00:55] Distance to target location: 70,83 meters. Will take 18,21 seconds!
+[02:01:06] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:01:11] Farmed XP: 100, Egg 2, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion, 2 x ItemGreatBall
+[02:01:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:01:17] Level/EXP: 21 | 56 150/75 000 (74,87%) | EXP to Level up: 18850
+[02:01:17] PokeStops visited: 967 | KM Walked: 35,23
+[02:01:18] Pokemon: 158 + 8 Eggs /250 (0 Evolvable)
+[02:01:18] Pokedex Completion: 81/150 [54%]
+[02:01:19] Items: 319/350 | Stardust: 73 155
+[02:01:23] Egg hatched and we got a Cubone CP: 490 MaxCP: 517 Level: 18 IV: 76,26%
+[02:01:23] Egg hatched and we got a Hitmonchan CP: 801 MaxCP: 823 Level: 19 IV: 85,94%
+[02:01:24] Added Egg which needs 2km
+[02:01:25] Added Egg which needs 5km
+[02:01:25] Egg (10km) need to walk 4,89 km.
+[02:01:28] Transfer Rattata CP 263 IV 28,98 % (Best IV: 59,60 %)
+[02:01:30] Next Pokestop: Passage "Galerie De La Madeleine" in 77,66m distance.
+[02:01:30] Distance to target location: 77,66 meters. Will take 18,64 seconds!
+[02:01:38] Found 1 catchable Pokemon(s).
+[02:01:40] Encountered Pidgey CP 278  IV 24,19% Probability 35%
+[02:01:41] Pidgey escaped while using ItemPokeBall
+[02:01:42] Pidgey CP 278 IV 24,19% got away while using ItemPokeBall..
+[02:01:46] Found 1 catchable Pokemon(s).
+[02:01:49] Encountered Weedle CP 120  IV 33,11% Probability 43%
+[02:01:50] Caught Weedle CP 120 IV 33,11% using ItemPokeBall got 210 XP.
+[02:01:52] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:01:55] Farmed XP: 50, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemUltraBall
+[02:02:00] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:02:00] Level/EXP: 21 | 56 435/75 000 (75,25%) | EXP to Level up: 18565
+[02:02:00] PokeStops visited: 968 | KM Walked: 35,23
+[02:02:01] Pokemon: 158 + 8 Eggs /250 (1 Evolvable)
+[02:02:01] Pokedex Completion: 81/150 [54%]
+[02:02:02] Items: 319/350 | Stardust: 73 255
+[02:02:05] Evolved Weedle CP 120 33,11%  to Kakuna CP: 130 for 500xp
+[02:02:09] Egg (2km) need to walk 2 km.
+[02:02:09] Egg (5km) need to walk 5 km.
+[02:02:09] Egg (10km) need to walk 4,89 km.
+[02:02:12] Transfer Kakuna CP 130 IV 30,73 % (Best IV: 83,66 %)
+[02:02:14] Next Pokestop: Le sourire in 61,34m distance.
+[02:02:14] Distance to target location: 61,34 meters. Will take 16,99 seconds!
+[02:02:22] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:02:28] Farmed XP: 50, Egg 5, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:02:31] Next Pokestop: Gaulois à Moustache in 43,09m distance.
+[02:02:31] Distance to target location: 43,09 meters. Will take 22,16 seconds!
+[02:02:44] Farmed XP: 50, Items: 4 x ItemPokeBall
+[02:02:49] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:02:49] Level/EXP: 21 | 57 035/75 000 (76,05%) | EXP to Level up: 17965
+[02:02:49] PokeStops visited: 970 | KM Walked: 35,23
+[02:02:50] Pokemon: 157 + 9 Eggs /250 (0 Evolvable)
+[02:02:50] Pokedex Completion: 81/150 [54%]
+[02:02:51] Items: 319/350 | Stardust: 73 255
+[02:02:56] Egg (2km) need to walk 2 km.
+[02:02:56] Egg (5km) need to walk 5 km.
+[02:02:56] Egg (10km) need to walk 4,89 km.
+[02:02:59] Next Pokestop: Poignée Fauves in 84,19m distance.
+[02:02:59] Distance to target location: 84,19 meters. Will take 30,31 seconds!
+[02:03:24] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[02:03:27] Next Pokestop: Porte Majestueuse Bois Rare Et Sculptures Sur Façade in 78,45m distance.
+[02:03:27] Distance to target location: 78,45 meters. Will take 31,38 seconds!
+[02:03:36] Found 1 catchable Pokemon(s).
+[02:03:38] Encountered Rattata CP 146  IV 32,38% Probability 45%
+[02:03:39] Caught Rattata CP 146 IV 32,38% using ItemPokeBall got 210 XP.
+[02:03:53] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:03:59] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:03:59] Level/EXP: 21 | 57 345/75 000 (76,46%) | EXP to Level up: 17655
+[02:03:59] PokeStops visited: 972 | KM Walked: 35,23
+[02:03:59] Pokemon: 158 + 9 Eggs /250 (0 Evolvable)
+[02:03:59] Pokedex Completion: 81/150 [54%]
+[02:04:00] Items: 320/350 | Stardust: 73 355
+[02:04:05] Egg (2km) need to walk 2 km.
+[02:04:05] Egg (5km) need to walk 5 km.
+[02:04:05] Egg (10km) need to walk 4,89 km.
+[02:04:07] Transfer Rattata CP 146 IV 32,38 % (Best IV: 59,60 %)
+[02:04:10] Next Pokestop: Le Roi Chêne in 105,71m distance.
+[02:04:10] Distance to target location: 105,71 meters. Will take 21,14 seconds!
+[02:04:25] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:04:32] Recycled 53x ItemPokeBall
+[02:04:33] Recycled 19x ItemGreatBall
+[02:04:34] Recycled 15x ItemPotion
+[02:04:36] Recycled 5x ItemSuperPotion
+[02:04:37] Recycled 2x ItemHyperPotion
+[02:04:38] Recycled 18x ItemRevive
+[02:04:39] Farmed XP: 50, Items: Nothing (Inventory Full?)
+[02:04:42] Next Pokestop: Tête De Monsieur in 58,88m distance.
+[02:04:42] Distance to target location: 58,88 meters. Will take 10,6 seconds!
+[02:04:47] Found 1 catchable Pokemon(s).
+[02:04:49] Encountered Bellsprout CP 268  IV 27,38% Probability 47%
+[02:04:50] Caught Bellsprout CP 268 IV 27,38% using ItemPokeBall got 210 XP.
+[02:04:53] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:04:58] Farmed XP: 50, Items: 3 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:05:05] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:05:05] Level/EXP: 21 | 57 655/75 000 (76,87%) | EXP to Level up: 17345
+[02:05:05] PokeStops visited: 974 | KM Walked: 35,58
+[02:05:05] Pokemon: 158 + 9 Eggs /250 (0 Evolvable)
+[02:05:05] Pokedex Completion: 81/150 [54%]
+[02:05:06] Items: 320/350 | Stardust: 73 455
+[02:05:10] Egg (2km) need to walk 1,65 km.
+[02:05:10] Egg (5km) need to walk 4,65 km.
+[02:05:10] Egg (10km) need to walk 4,54 km.
+[02:05:14] Next Pokestop: Des Petits Anges in 60,64m distance.
+[02:05:14] Distance to target location: 60,64 meters. Will take 18,19 seconds!
+[02:05:21] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:05:28] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:05:31] Next Pokestop: Paris Hotel Particulier Et Pouce De Cesar in 169,71m distance.
+[02:05:31] Distance to target location: 169,71 meters. Will take 40,73 seconds!
+[02:06:05] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:06:12] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:06:15] Next Pokestop: Sculpture of Blason De Notaire in 44,98m distance.
+[02:06:15] Distance to target location: 44,98 meters. Will take 13,49 seconds!
+[02:06:19] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:06:25] Farmed XP: 100, Items: 3 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:06:30] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:06:30] Level/EXP: 21 | 57 855/75 000 (77,14%) | EXP to Level up: 17145
+[02:06:30] PokeStops visited: 977 | KM Walked: 35,58
+[02:06:31] Pokemon: 158 + 9 Eggs /250 (0 Evolvable)
+[02:06:31] Pokedex Completion: 81/150 [54%]
+[02:06:32] Items: 320/350 | Stardust: 73 455
+[02:06:36] Egg (2km) need to walk 1,65 km.
+[02:06:36] Egg (5km) need to walk 4,65 km.
+[02:06:36] Egg (10km) need to walk 4,54 km.
+[02:06:40] Next Pokestop: Ecusson Huissier De Justice in 122,51m distance.
+[02:06:40] Distance to target location: 122,51 meters. Will take 33,93 seconds!
+[02:06:54] Found 1 catchable Pokemon(s).
+[02:06:56] Encountered Paras CP 325  IV 53,00% Probability 32%
+[02:07:02] Thrown ItemRazzBerry. Remaining: 65.
+[02:07:03] Caught Paras CP 325 IV 53,00% using ItemPokeBall got 210 XP.
+[02:07:08] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:07:10] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemSuperPotion
+[02:07:12] Next Pokestop: AuctionArt in 104,53m distance.
+[02:07:12] Distance to target location: 104,53 meters. Will take 23,52 seconds!
+[02:07:29] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:07:35] Found 1 catchable Pokemon(s).
+[02:07:37] Encountered Pidgey CP 148  IV 46,38% Probability 50%
+[02:07:38] Caught Pidgey CP 148 IV 46,38% using ItemPokeBall got 210 XP.
+[02:07:42] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:07:48] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:07:48] Level/EXP: 21 | 58 375/75 000 (77,83%) | EXP to Level up: 16625
+[02:07:48] PokeStops visited: 979 | KM Walked: 35,58
+[02:07:48] Pokemon: 160 + 9 Eggs /250 (1 Evolvable)
+[02:07:48] Pokedex Completion: 81/150 [54%]
+[02:07:49] Items: 322/350 | Stardust: 73 655
+[02:07:52] Evolved Pidgey CP 232 70,14%  to Pidgeotto CP: 430 for 500xp
+[02:08:32]    à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 80
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__6`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 0
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Inventory.<GetInventory>d__13.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Inventory.cs:ligne 171
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Inventory.<GetEggs>d__6.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Inventory.cs:ligne 104
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<StartIncubation>d__20.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 717
+[02:08:36] Transfer Pidgeotto CP 430 IV 73,28 % (Best IV: 84,35 %)
+[02:08:38] Transfer Paras CP 145 IV 21,17 % (Best IV: 68,17 %)
+[02:08:40] Next Pokestop: Résidence de l'Ambassadeur du Royaume-Uni in 151,56m distance.
+[02:08:40] Distance to target location: 151,56 meters. Will take 28,72 seconds!
+[02:09:05] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:09:08] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:09:10] Next Pokestop: Ambassade du Royaume-Uni in 92,73m distance.
+[02:09:10] Distance to target location: 92,73 meters. Will take 18,55 seconds!
+[02:09:25] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:09:27] Farmed XP: 50, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry, 1 x ItemGreatBall
+[02:09:33] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:09:33] Level/EXP: 21 | 58 975/75 000 (78,63%) | EXP to Level up: 16025
+[02:09:33] PokeStops visited: 981 | KM Walked: 35,88
+[02:09:34] Pokemon: 158 + 9 Eggs /250 (0 Evolvable)
+[02:09:34] Pokedex Completion: 81/150 [54%]
+[02:09:35] Items: 320/350 | Stardust: 73 655
+[02:09:41] Egg (2km) need to walk 1,35 km.
+[02:09:41] Egg (5km) need to walk 4,35 km.
+[02:09:41] Egg (10km) need to walk 4,24 km.
+[02:09:44] Next Pokestop: Résidence de l'Ambassadeur du Japon in 86,05m distance.
+[02:09:44] Distance to target location: 86,05 meters. Will take 38,72 seconds!
+[02:10:16] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[02:10:18] Next Pokestop: Maison Ou Est Mort Le Général La Fayette in 93,98m distance.
+[02:10:18] Distance to target location: 93,98 meters. Will take 18,8 seconds!
+[02:10:31] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:10:38] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:10:40] Next Pokestop: La Poste in 48,22m distance.
+[02:10:40] Distance to target location: 48,22 meters. Will take 9,14 seconds!
+[02:10:43] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:10:51] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[02:10:56] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:10:56] Level/EXP: 21 | 59 125/75 000 (78,83%) | EXP to Level up: 15875
+[02:10:56] PokeStops visited: 984 | KM Walked: 35,88
+[02:10:56] Pokemon: 158 + 9 Eggs /250 (0 Evolvable)
+[02:10:56] Pokedex Completion: 81/150 [54%]
+[02:10:57] Items: 320/350 | Stardust: 73 655
+[02:11:02] Egg (2km) need to walk 1,35 km.
+[02:11:02] Egg (5km) need to walk 4,35 km.
+[02:11:02] Egg (10km) need to walk 4,24 km.
+[02:11:05] Next Pokestop: A La Memoore De J. Cunningham in 116,47m distance.
+[02:11:05] Distance to target location: 116,47 meters. Will take 46,59 seconds!
+[02:11:41] Found 1 catchable Pokemon(s).
+[02:11:43] Encountered Squirtle CP 110  IV 17,76% Probability 28%
+[02:11:48] Thrown ItemRazzBerry. Remaining: 68.
+[02:11:49] Caught Squirtle CP 110 IV 17,76% using ItemPokeBall got 210 XP.
+[02:11:58] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[02:12:00] Next Pokestop: Paris : Magasin Hermès in 55,85m distance.
+[02:12:00] Distance to target location: 55,85 meters. Will take 22,34 seconds!
+[02:12:09] Found 1 catchable Pokemon(s).
+[02:12:11] Encountered Pidgeotto CP 550  IV 37,91% Probability 18%
+[02:12:17] Thrown ItemRazzBerry. Remaining: 67.
+[02:12:18] Caught Pidgeotto CP 550 IV 37,91% using ItemGreatBall got 210 XP.
+[02:12:26] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:12:33] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:12:33] Level/EXP: 21 | 59 645/75 000 (79,53%) | EXP to Level up: 15355
+[02:12:33] PokeStops visited: 986 | KM Walked: 35,88
+[02:12:34] Pokemon: 160 + 9 Eggs /250 (0 Evolvable)
+[02:12:34] Pokedex Completion: 81/150 [54%]
+[02:12:35] Items: 322/350 | Stardust: 73 855
+[02:12:39] Egg (2km) need to walk 1,35 km.
+[02:12:39] Egg (5km) need to walk 4,35 km.
+[02:12:39] Egg (10km) need to walk 4,24 km.
+[02:12:42] Transfer Pidgeotto CP 550 IV 37,91 % (Best IV: 84,35 %)
+[02:12:44] Next Pokestop: Croque-serpent in 46,15m distance.
+[02:12:44] Distance to target location: 46,15 meters. Will take 8,74 seconds!
+[02:12:48] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:12:52] Found 1 catchable Pokemon(s).
+[02:12:55] Encountered Rattata CP 265  IV 61,46% Probability 35%
+[02:12:55] Caught Rattata CP 265 IV 61,46% using ItemPokeBall got 210 XP.
+[02:12:59] Farmed XP: 100, Items: 3 x ItemPokeBall, 1 x ItemPotion, 2 x ItemUltraBall
+[02:13:02] Next Pokestop: Zouave de porte in 68,59m distance.
+[02:13:02] Distance to target location: 68,59 meters. Will take 22,45 seconds!
+[02:13:14] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:13:20] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:13:26] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:13:26] Level/EXP: 21 | 60 005/75 000 (80,01%) | EXP to Level up: 14995
+[02:13:26] PokeStops visited: 988 | KM Walked: 36,27
+[02:13:27] Pokemon: 160 + 9 Eggs /250 (1 Evolvable)
+[02:13:27] Pokedex Completion: 81/150 [54%]
+[02:13:27] Items: 322/350 | Stardust: 73 955
+[02:13:30] Evolved Rattata CP 265 61,46%  to Raticate CP: 688 for 500xp
+[02:13:34] Egg (2km) need to walk 0,96 km.
+[02:13:34] Egg (5km) need to walk 3,96 km.
+[02:13:34] Egg (10km) need to walk 3,85 km.
+[02:13:38] Transfer Raticate CP 688 IV 61,69 % (Best IV: 79,44 %)
+[02:13:40] Next Pokestop: Pelicanlefant in 110,06m distance.
+[02:13:40] Distance to target location: 110,06 meters. Will take 23,31 seconds!
+[02:13:48] Found 1 catchable Pokemon(s).
+[02:13:50] Encountered Pidgey CP 10  IV 25,37% Probability 100%
+[02:13:51] Caught Pidgey CP 10 IV 25,37% using ItemPokeBall got 210 XP.
+[02:13:55] Found 1 catchable Pokemon(s).
+[02:13:58] Encountered Diglett CP 204  IV 66,88% Probability 35%
+[02:13:59] Caught Diglett CP 204 IV 66,88% using ItemPokeBall got 210 XP.
+[02:14:03] Found 1 catchable Pokemon(s).
+[02:14:05] Encountered Pidgey CP 200  IV 47,05% Probability 43%
+[02:14:06] Caught Pidgey CP 200 IV 47,05% using ItemPokeBall got 210 XP.
+[02:14:10] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:14:14] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:14:19] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:14:19] Level/EXP: 21 | 61 185/75 000 (81,58%) | EXP to Level up: 13815
+[02:14:19] PokeStops visited: 989 | KM Walked: 36,27
+[02:14:19] Pokemon: 162 + 9 Eggs /250 (1 Evolvable)
+[02:14:19] Pokedex Completion: 81/150 [54%]
+[02:14:20] Items: 324/350 | Stardust: 74 255
+[02:14:23] Evolved Pidgey CP 200 47,05%  to Pidgeotto CP: 374 for 500xp
+[02:14:28] Egg (2km) need to walk 0,96 km.
+[02:14:28] Egg (5km) need to walk 3,96 km.
+[02:14:28] Egg (10km) need to walk 3,85 km.
+[02:14:31] Transfer Pidgeotto CP 374 IV 46,70 % (Best IV: 84,35 %)
+[02:14:33] Transfer Diglett CP 148 IV 14,11 % (Best IV: 66,88 %)
+[02:14:34] Transfer Pidgey CP 10 IV 25,37 % (Best IV: 46,38 %)
+[02:14:36] Next Pokestop: Барельеф in 50,47m distance.
+[02:14:36] Distance to target location: 50,47 meters. Will take 12,11 seconds!
+[02:14:40] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:14:47] Farmed XP: 50, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[02:14:50] Next Pokestop: Maxim's in 54,05m distance.
+[02:14:50] Distance to target location: 54,05 meters. Will take 12,16 seconds!
+[02:14:55] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:15:00] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:15:05] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:15:05] Level/EXP: 21 | 61 785/75 000 (82,38%) | EXP to Level up: 13215
+[02:15:05] PokeStops visited: 991 | KM Walked: 36,27
+[02:15:06] Pokemon: 159 + 9 Eggs /250 (0 Evolvable)
+[02:15:06] Pokedex Completion: 81/150 [54%]
+[02:15:07] Items: 321/350 | Stardust: 74 255
+[02:15:11] Egg (2km) need to walk 0,96 km.
+[02:15:11] Egg (5km) need to walk 3,96 km.
+[02:15:11] Egg (10km) need to walk 3,85 km.
+[02:15:15] Next Pokestop: Nathalie De Serbie  in 84,76m distance.
+[02:15:15] Distance to target location: 84,76 meters. Will take 16,95 seconds!
+[02:15:27] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:15:30] Found 1 catchable Pokemon(s).
+[02:15:33] Encountered Squirtle CP 455  IV 25,54% Probability 14%
+[02:15:38] Thrown ItemRazzBerry. Remaining: 66.
+[02:15:39] Caught Squirtle CP 455 IV 25,54% using ItemPokeBall got 210 XP.
+[02:15:42] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:15:44] Next Pokestop: République Française in 54,27m distance.
+[02:15:44] Distance to target location: 54,27 meters. Will take 15,03 seconds!
+[02:15:50] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:15:57] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:16:03] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:16:03] Level/EXP: 21 | 62 095/75 000 (82,79%) | EXP to Level up: 12905
+[02:16:03] PokeStops visited: 993 | KM Walked: 36,27
+[02:16:04] Pokemon: 160 + 9 Eggs /250 (0 Evolvable)
+[02:16:04] Pokedex Completion: 81/150 [54%]
+[02:16:04] Items: 322/350 | Stardust: 74 355
+[02:16:09] Egg (2km) need to walk 0,96 km.
+[02:16:09] Egg (5km) need to walk 3,96 km.
+[02:16:09] Egg (10km) need to walk 3,85 km.
+[02:16:12] Transfer Squirtle CP 110 IV 17,76 % (Best IV: 50,83 %)
+[02:16:14] Next Pokestop: Au 01 Faubourg St-Honoré in 59,99m distance.
+[02:16:14] Distance to target location: 59,99 meters. Will take 14,4 seconds!
+[02:16:21] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:16:26] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:16:30] Next Pokestop: El Señor De La Puerta  in 59,16m distance.
+[02:16:30] Distance to target location: 59,16 meters. Will take 17,75 seconds!
+[02:16:38] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:16:45] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemUltraBall
+[02:16:47] Next Pokestop: Le Village Royal in 82,33m distance.
+[02:16:47] Distance to target location: 82,33 meters. Will take 15,6 seconds!
+[02:16:57] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:17:04] Found 1 catchable Pokemon(s).
+[02:17:07] Encountered Poliwhirl CP 54  IV 58,72% Probability 60%
+[02:17:07] Caught Poliwhirl CP 54 IV 58,72% using ItemPokeBall got 210 XP.
+[02:17:11] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:17:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:17:17] Level/EXP: 21 | 62 455/75 000 (83,27%) | EXP to Level up: 12545
+[02:17:17] PokeStops visited: 996 | KM Walked: 36,55
+[02:17:18] Pokemon: 160 + 9 Eggs /250 (0 Evolvable)
+[02:17:18] Pokedex Completion: 81/150 [54%]
+[02:17:18] Items: 322/350 | Stardust: 74 455
+[02:17:23] Egg (2km) need to walk 0,68 km.
+[02:17:23] Egg (5km) need to walk 3,68 km.
+[02:17:23] Egg (10km) need to walk 3,56 km.
+[02:17:26] Transfer Poliwhirl CP 311 IV 53,67 % (Best IV: 80,75 %)
+[02:17:28] Next Pokestop: Histoire De L'Eglise Notre Dame De L'Assomption in 202,38m distance.
+[02:17:28] Distance to target location: 202,38 meters. Will take 91,07 seconds!
+[02:18:04] Found 1 catchable Pokemon(s).
+[02:18:06] Encountered Goldeen CP 12  IV 78,20% Probability 100%
+[02:18:07] Caught Goldeen CP 12 IV 78,20% using ItemPokeBall got 210 XP.
+[02:18:53] Farmed XP: 100, Items: 4 x ItemPokeBall, 2 x ItemPotion, 2 x ItemGreatBall
+[02:18:56] Next Pokestop: Paris - Notre Dame De L' Assomption in 46,85m distance.
+[02:18:56] Distance to target location: 46,85 meters. Will take 9,37 seconds!
+[02:18:59] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:19:06] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:19:11] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:19:11] Level/EXP: 21 | 62 815/75 000 (83,75%) | EXP to Level up: 12185
+[02:19:11] PokeStops visited: 998 | KM Walked: 36,55
+[02:19:12] Pokemon: 160 + 9 Eggs /250 (0 Evolvable)
+[02:19:12] Pokedex Completion: 81/150 [54%]
+[02:19:13] Items: 322/350 | Stardust: 74 555
+[02:19:17] Egg (2km) need to walk 0,68 km.
+[02:19:17] Egg (5km) need to walk 3,68 km.
+[02:19:17] Egg (10km) need to walk 3,56 km.
+[02:19:22] Next Pokestop: Cour Des Comptes in 66,37m distance.
+[02:19:22] Distance to target location: 66,37 meters. Will take 34,14 seconds!
+[02:19:29] Found 1 catchable Pokemon(s).
+[02:19:32] Encountered Pidgey CP 213  IV 42,39% Probability 42%
+[02:19:33] Caught Pidgey CP 213 IV 42,39% using ItemPokeBall got 210 XP.
+[02:19:45] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[02:19:47] Next Pokestop: Pierre Highstorique Cour Des Comptes in 52,9m distance.
+[02:19:47] Distance to target location: 52,9 meters. Will take 23,8 seconds!
+[02:19:57] Found 1 catchable Pokemon(s).
+[02:19:59] Encountered Pinsir CP 907  IV 58,82% Probability 22%
+[02:20:05] Thrown ItemRazzBerry. Remaining: 65.
+[02:20:05] Caught Pinsir CP 907 IV 58,82% using ItemGreatBall got 210 XP.
+[02:20:13] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:20:19] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:20:19] Level/EXP: 21 | 63 335/75 000 (84,45%) | EXP to Level up: 11665
+[02:20:19] PokeStops visited: 1000 | KM Walked: 36,55
+[02:20:20] Pokemon: 162 + 9 Eggs /250 (0 Evolvable)
+[02:20:20] Pokedex Completion: 81/150 [54%]
+[02:20:21] Items: 324/350 | Stardust: 74 755
+[02:20:25] Egg (2km) need to walk 0,68 km.
+[02:20:25] Egg (5km) need to walk 3,68 km.
+[02:20:25] Egg (10km) need to walk 3,56 km.
+[02:20:29] Transfer Pinsir CP 907 IV 58,82 % (Best IV: 77,92 %)
+[02:20:30] Transfer Pidgey CP 10 IV 34,01 % (Best IV: 46,38 %)
+[02:20:32] Next Pokestop: Space Invaders  in 77,84m distance.
+[02:20:32] Distance to target location: 77,84 meters. Will take 16,48 seconds!
+[02:20:42] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:20:49] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:20:51] Next Pokestop: Абстрактная Скульптура in 92,21m distance.
+[02:20:51] Distance to target location: 92,21 meters. Will take 23,71 seconds!
+[02:21:08] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:21:13] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:21:16] Next Pokestop: Monument à Waldeck-Rousseau (1909), Jardin des Tuileries in 33,34m distance.
+[02:21:16] Distance to target location: 33,34 meters. Will take 8,57 seconds!
+[02:21:17] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:21:20] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:21:26] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:21:26] Level/EXP: 21 | 63 485/75 000 (84,65%) | EXP to Level up: 11515
+[02:21:26] PokeStops visited: 1003 | KM Walked: 36,98
+[02:21:26] Pokemon: 160 + 9 Eggs /250 (0 Evolvable)
+[02:21:26] Pokedex Completion: 81/150 [54%]
+[02:21:27] Items: 322/350 | Stardust: 74 755
+[02:21:32] Egg (2km) need to walk 0,25 km.
+[02:21:32] Egg (5km) need to walk 3,25 km.
+[02:21:32] Egg (10km) need to walk 3,13 km.
+[02:21:35] Next Pokestop: Jeannette, par Paul Belmondo in 66,56m distance.
+[02:21:35] Distance to target location: 66,56 meters. Will take 29,95 seconds!
+[02:21:38] Found 1 catchable Pokemon(s).
+[02:21:41] Encountered Pidgeot CP 698  IV 35,71% Probability 10%
+[02:21:46] Thrown ItemRazzBerry. Remaining: 65.
+[02:21:47] Pidgeot escaped while using ItemGreatBall
+[02:21:52] Thrown ItemRazzBerry. Remaining: 65.
+[02:21:53] Pidgeot escaped while using ItemGreatBall
+[02:21:59] Thrown ItemRazzBerry. Remaining: 65.
+[02:21:59] Pidgeot escaped while using ItemGreatBall
+[02:22:05] Thrown ItemRazzBerry. Remaining: 65.
+[02:22:06] Caught Pidgeot CP 698 IV 35,71% using ItemGreatBall got 210 XP.
+[02:22:10] Found 2 catchable Pokemon(s).
+[02:22:14] Encountered Poliwag CP 364  IV 37,49% Probability 34%
+[02:22:19] Thrown ItemRazzBerry. Remaining: 61.
+[02:22:20] Caught Poliwag CP 364 IV 37,49% using ItemPokeBall got 210 XP.
+[02:22:24] Encountered Weedle CP 49  IV 43,17% Probability 69%
+[02:22:25] Caught Weedle CP 49 IV 43,17% using ItemPokeBall got 210 XP.
+[02:22:31] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:22:39] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:22:39] Level/EXP: 21 | 64 165/75 000 (85,55%) | EXP to Level up: 10835
+[02:22:39] PokeStops visited: 1004 | KM Walked: 36,98
+[02:22:40] Pokemon: 163 + 9 Eggs /250 (1 Evolvable)
+[02:22:40] Pokedex Completion: 81/150 [54%]
+[02:22:41] Items: 325/350 | Stardust: 75 055
+[02:22:43] Evolved Pidgey CP 213 42,39%  to Pidgeotto CP: 400 for 500xp
+[02:22:48] Egg (2km) need to walk 0,25 km.
+[02:22:48] Egg (5km) need to walk 3,25 km.
+[02:22:48] Egg (10km) need to walk 3,13 km.
+[02:22:51] Transfer Pidgeotto CP 400 IV 41,66 % (Best IV: 84,35 %)
+[02:22:52] Transfer Poliwag CP 261 IV 28,74 % (Best IV: 46,71 %)
+[02:22:54] Transfer Weedle CP 80 IV 35,12 % (Best IV: 46,14 %)
+[02:22:56] Next Pokestop: Monument à Charles Perrault et in 47,64m distance.
+[02:22:56] Distance to target location: 47,64 meters. Will take 9,53 seconds!
+[02:23:00] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:23:05] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[02:23:07] Next Pokestop: Manège in 76,26m distance.
+[02:23:07] Distance to target location: 76,26 meters. Will take 21,12 seconds!
+[02:23:18] Found 2 catchable Pokemon(s).
+[02:23:21] Encountered Krabby CP 82  IV 96,87% Probability 78%
+[02:23:24] Caught Krabby CP 82 IV 96,87% using ItemPokeBall got 210 XP.
+[02:23:30] Encountered Eevee CP 204  IV 27,40% Probability 43%
+[02:23:30] Caught Eevee CP 204 IV 27,40% using ItemPokeBall got 210 XP.
+[02:23:32] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:23:34] Found 1 catchable Pokemon(s).
+[02:23:36] Encountered Pinsir CP 93  IV 95,25% Probability 72%
+[02:23:37] Caught Pinsir CP 93 IV 95,25% using ItemPokeBall got 210 XP.
+[02:23:49] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:23:56] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:23:56] Level/EXP: 21 | 65 395/75 000 (87,19%) | EXP to Level up: 9605
+[02:23:56] PokeStops visited: 1006 | KM Walked: 36,98
+[02:23:57] Pokemon: 163 + 9 Eggs /250 (0 Evolvable)
+[02:23:57] Pokedex Completion: 81/150 [54%]
+[02:23:57] Items: 325/350 | Stardust: 75 355
+[02:24:02] Egg (2km) need to walk 0,25 km.
+[02:24:02] Egg (5km) need to walk 3,25 km.
+[02:24:02] Egg (10km) need to walk 3,13 km.
+[02:24:05] Transfer Pinsir CP 151 IV 74,79 % (Best IV: 95,25 %)
+[02:24:06] Transfer Krabby CP 288 IV 41,05 % (Best IV: 96,87 %)
+[02:24:08] Next Pokestop: Tree scrapers in 62,13m distance.
+[02:24:08] Distance to target location: 62,13 meters. Will take 20,33 seconds!
+[02:24:16] Found 1 catchable Pokemon(s).
+[02:24:19] Encountered Oddish CP 483  IV 62,50% Probability 45%
+[02:24:19] Caught Oddish CP 483 IV 62,50% using ItemPokeBall got 210 XP.
+[02:24:25] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:24:28] Farmed XP: 100, Items: 3 x ItemPokeBall, 2 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:24:31] Next Pokestop: Rhinocéros attaqué par un tigre in 31,1m distance.
+[02:24:31] Distance to target location: 31,1 meters. Will take 11,19 seconds!
+[02:24:35] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:24:40] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:24:40] Level/EXP: 21 | 65 755/75 000 (87,67%) | EXP to Level up: 9245
+[02:24:40] PokeStops visited: 1008 | KM Walked: 36,98
+[02:24:41] Pokemon: 162 + 9 Eggs /250 (0 Evolvable)
+[02:24:41] Pokedex Completion: 81/150 [54%]
+[02:24:42] Items: 324/350 | Stardust: 75 455
+[02:25:18] Egg (2km) need to walk 0,25 km.
+[02:25:18] Egg (5km) need to walk 3,25 km.
+[02:25:18] Egg (10km) need to walk 3,13 km.
+[02:25:21] Next Pokestop: Lieu De La Salle Du Manège in 84,74m distance.
+[02:25:21] Distance to target location: 84,74 meters. Will take 30,51 seconds!
+[02:25:47] Next Pokestop: Meurice back Door in 72,34m distance.
+[02:25:47] Distance to target location: 72,34 meters. Will take 17,36 seconds!
+[02:25:57] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:26:20] Next Pokestop: Diamond Skull in 106,58m distance.
+[02:26:20] Distance to target location: 106,58 meters. Will take 38,37 seconds!
+[02:28:30] Exception: System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProto>d__2`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 98
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 66
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 0
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Player.<UpdatePlayerLocation>d__1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Player.cs:ligne 41
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Navigation.<HumanLikeWalking>d__5.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Navigation.cs:ligne 90
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<ExecuteFarmingPokestopsAndPokemons>d__17.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 429
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<PostLoginExecute>d__10.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 149
+[02:28:30] Starting again in 10 seconds...
+[02:28:44] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[02:28:45] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:28:45] Level/EXP: 21 | 65 755/75 000 (87,67%) | EXP to Level up: 9245
+[02:28:45] PokeStops visited: 1008 | KM Walked: 36,98
+[02:28:46] Pokemon: 162 + 9 Eggs /250 (0 Evolvable)
+[02:28:46] Pokedex Completion: 81/150 [54%]
+[02:28:47] Items: 324/350 | Stardust: 75 455
+[02:28:49] Egg (2km) need to walk 0,25 km.
+[02:28:49] Egg (5km) need to walk 3,25 km.
+[02:28:49] Egg (10km) need to walk 3,13 km.
+[02:28:51] Recycled 61x ItemPokeBall
+[02:28:53] Recycled 10x ItemGreatBall
+[02:28:54] Recycled 10x ItemPotion
+[02:28:55] Recycled 2x ItemSuperPotion
+[02:28:56] Recycled 6x ItemRevive
+[02:28:58] We found 220 usable PokeStops near your current location.
+[02:29:01] Next Pokestop: Diamond Skull in 23,74m distance.
+[02:29:01] Distance to target location: 23,74 meters. Will take 4,07 seconds!
+[02:29:03] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:29:06] Farmed XP: 50, Egg 10, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:29:08] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:29:08] Level/EXP: 21 | 66 005/75 000 (88,01%) | EXP to Level up: 8995
+[02:29:08] PokeStops visited: 1009 | KM Walked: 37,36
+[02:29:09] Pokemon: 162 + 9 Eggs /250 (0 Evolvable)
+[02:29:09] Pokedex Completion: 81/150 [54%]
+[02:29:09] Items: 325/350 | Stardust: 75 855
+[02:29:12] Egg hatched and we got a Charmander CP: 521 MaxCP: 545 Level: 20 IV: 80,69%
+[02:29:13] Added Egg which needs 2km
+[02:29:13] Egg (5km) need to walk 2,87 km.
+[02:29:13] Egg (10km) need to walk 2,75 km.
+[02:29:15] Next Pokestop: Meurice back Door in 96,72m distance.
+[02:29:15] Distance to target location: 96,72 meters. Will take 38,69 seconds!
+[02:29:22] Found 1 catchable Pokemon(s).
+[02:29:24] Encountered Rattata CP 104  IV 71,20% Probability 57%
+[02:29:25] Rattata escaped while using ItemPokeBall
+[02:29:25] Caught Rattata CP 104 IV 71,20% using ItemPokeBall got 210 XP.
+[02:29:42] Found 1 catchable Pokemon(s).
+[02:29:47] Encountered Goldeen CP 12  IV 57,62% Probability 100%
+[02:29:48] Caught Goldeen CP 12 IV 57,62% using ItemPokeBall got 210 XP.
+[02:29:55] Farmed XP: 50, Items: 3 x ItemPokeBall, 1 x ItemGreatBall
+[02:29:58] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:29:58] Level/EXP: 21 | 66 475/75 000 (88,63%) | EXP to Level up: 8525
+[02:29:58] PokeStops visited: 1010 | KM Walked: 37,36
+[02:29:59] Pokemon: 165 + 9 Eggs /250 (0 Evolvable)
+[02:29:59] Pokedex Completion: 81/150 [54%]
+[02:29:59] Items: 327/350 | Stardust: 76 055
+[02:30:02] Egg (2km) need to walk 2 km.
+[02:30:02] Egg (5km) need to walk 2,87 km.
+[02:30:02] Egg (10km) need to walk 2,75 km.
+[02:30:03] Transfer Goldeen CP 12 IV 57,62 % (Best IV: 78,20 %)
+[02:30:05] Transfer Rattata CP 244 IV 37,18 % (Best IV: 71,20 %)
+[02:30:06] Next Pokestop: Lieu De La Salle Du Manège in 70,58m distance.
+[02:30:06] Distance to target location: 70,58 meters. Will take 21,17 seconds!
+[02:30:18] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:30:25] Farmed XP: 50, Items: 1 x ItemSuperPotion, 2 x ItemRazzBerry
+[02:30:27] Next Pokestop: Fleur De Coquelicot in 99,88m distance.
+[02:30:27] Distance to target location: 99,88 meters. Will take 23,97 seconds!
+[02:30:41] Found 2 catchable Pokemon(s).
+[02:30:42] Encountered Eevee CP 379  IV 44,44% Probability 32%
+[02:30:47] Thrown ItemRazzBerry. Remaining: 65.
+[02:30:48] Caught Eevee CP 379 IV 44,44% using ItemPokeBall got 210 XP.
+[02:30:51] Encountered Staryu CP 203  IV 84,26% Probability 53%
+[02:30:52] Staryu escaped while using ItemPokeBall
+[02:30:52] Caught Staryu CP 203 IV 84,26% using ItemPokeBall got 210 XP.
+[02:30:58] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:31:19] Farmed XP: 50, Items: 4 x ItemPokeBall
+[02:31:24] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:31:24] Level/EXP: 21 | 66 995/75 000 (89,33%) | EXP to Level up: 8005
+[02:31:24] PokeStops visited: 1012 | KM Walked: 37,36
+[02:31:36] Pokemon: 165 + 9 Eggs /250 (0 Evolvable)
+[02:31:36] Pokedex Completion: 81/150 [54%]
+[02:31:37] Items: 327/350 | Stardust: 76 255
+[02:31:40] Egg (2km) need to walk 2 km.
+[02:31:40] Egg (5km) need to walk 2,87 km.
+[02:31:40] Egg (10km) need to walk 2,75 km.
+[02:31:42] Transfer Staryu CP 117 IV 70,68 % (Best IV: 94,39 %)
+[02:31:44] Next Pokestop: Standing Figure in 51,4m distance.
+[02:31:44] Distance to target location: 51,4 meters. Will take 15,42 seconds!
+[02:31:48] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:31:51] Found 2 catchable Pokemon(s).
+[02:32:34] Encountered Weedle CP 216  IV 51,84% Probability 33%
+[02:32:41] Thrown ItemRazzBerry. Remaining: 64.
+[02:32:42] Caught Weedle CP 216 IV 51,84% using ItemPokeBall got 210 XP.
+[02:32:46] Encountered Ekans CP 54  IV 54,84% Probability 93%
+[02:32:48] Caught Ekans CP 54 IV 54,84% using ItemPokeBall got 210 XP.
+[02:32:57] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:33:05] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:33:05] Level/EXP: 21 | 67 465/75 000 (89,95%) | EXP to Level up: 7535
+[02:33:05] PokeStops visited: 1013 | KM Walked: 37,65
+[02:33:06] Pokemon: 166 + 9 Eggs /250 (0 Evolvable)
+[02:33:06] Pokedex Completion: 81/150 [54%]
+[02:33:07] Items: 328/350 | Stardust: 76 455
+[02:33:13] Egg (2km) need to walk 1,71 km.
+[02:33:14] Egg (5km) need to walk 2,58 km.
+[02:33:14] Egg (10km) need to walk 2,47 km.
+[02:33:17] Transfer Weedle CP 59 IV 38,82 % (Best IV: 51,84 %)
+[02:33:21] Next Pokestop: L'Échiquier, Grand, 1959 in 46,2m distance.
+[02:33:21] Distance to target location: 46,2 meters. Will take 15,12 seconds!
+[02:33:26] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:33:30] Found 1 catchable Pokemon(s).
+[02:33:36] Encountered Horsea CP 348  IV 61,75% Probability 36%
+[02:33:37] Caught Horsea CP 348 IV 61,75% using ItemPokeBall got 210 XP.
+[02:33:41] Farmed XP: 50, Items: 2 x ItemPokeBall, 2 x ItemRazzBerry
+[02:33:45] Next Pokestop: Cyclops in 46,13m distance.
+[02:33:45] Distance to target location: 46,13 meters. Will take 15,1 seconds!
+[02:33:49] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:33:57] Farmed XP: 50, Items: 1 x ItemRevive, 1 x ItemPotion, 1 x ItemGreatBall
+[02:34:04] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:34:04] Level/EXP: 21 | 67 775/75 000 (90,37%) | EXP to Level up: 7225
+[02:34:04] PokeStops visited: 1015 | KM Walked: 37,65
+[02:34:05] Pokemon: 166 + 9 Eggs /250 (0 Evolvable)
+[02:34:05] Pokedex Completion: 81/150 [54%]
+[02:34:06] Items: 328/350 | Stardust: 76 555
+[02:34:12] Egg (2km) need to walk 1,71 km.
+[02:34:12] Egg (5km) need to walk 2,58 km.
+[02:34:12] Egg (10km) need to walk 2,47 km.
+[02:34:16] Transfer Horsea CP 348 IV 61,75 % (Best IV: 77,05 %)
+[02:34:19] Next Pokestop: Jardin des Tuileries in 53,2m distance.
+[02:34:19] Distance to target location: 53,2 meters. Will take 19,15 seconds!
+[02:34:34] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:34:39] Next Pokestop: Je vais tomber in 58,92m distance.
+[02:34:39] Distance to target location: 58,92 meters. Will take 14,14 seconds!
+[02:34:51] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:34:57] Farmed XP: 100, Items: 3 x ItemPokeBall, 1 x ItemSuperPotion, 2 x ItemGreatBall
+[02:34:59] Found 1 catchable Pokemon(s).
+[02:35:03] Encountered Pinsir CP 854  IV 61,42% Probability 23%
+[02:35:10] Thrown ItemRazzBerry. Remaining: 65.
+[02:35:11] Caught Pinsir CP 854 IV 61,42% using ItemGreatBall got 210 XP.
+[02:35:21] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:35:21] Level/EXP: 21 | 68 135/75 000 (90,85%) | EXP to Level up: 6865
+[02:35:21] PokeStops visited: 1017 | KM Walked: 37,65
+[02:35:22] Pokemon: 166 + 9 Eggs /250 (0 Evolvable)
+[02:35:22] Pokedex Completion: 81/150 [54%]
+[02:35:23] Items: 328/350 | Stardust: 76 655
+[02:35:28] Egg (2km) need to walk 1,71 km.
+[02:35:28] Egg (5km) need to walk 2,58 km.
+[02:35:28] Egg (10km) need to walk 2,47 km.
+[02:35:32] Transfer Pinsir CP 854 IV 61,42 % (Best IV: 95,25 %)
+[02:35:34] Next Pokestop: Médée Et Ses 2 Enfants in 76,04m distance.
+[02:35:34] Distance to target location: 76,04 meters. Will take 18,25 seconds!
+[02:35:51] Found 1 catchable Pokemon(s).
+[02:35:55] Encountered Rattata CP 50  IV 40,89% Probability 78%
+[02:35:55] Caught Rattata CP 50 IV 40,89% using ItemPokeBall got 210 XP.
+[02:35:59] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:36:02] Farmed XP: 50, Items: 4 x ItemPokeBall
+[02:36:05] Next Pokestop: Cincinnatus, Jardin des Tuileries  in 24,4m distance.
+[02:36:05] Distance to target location: 24,4 meters. Will take 8,78 seconds!
+[02:36:11] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:36:17] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:36:17] Level/EXP: 21 | 68 445/75 000 (91,26%) | EXP to Level up: 6555
+[02:36:17] PokeStops visited: 1019 | KM Walked: 37,65
+[02:36:18] Pokemon: 166 + 9 Eggs /250 (0 Evolvable)
+[02:36:18] Pokedex Completion: 81/150 [54%]
+[02:36:20] Items: 328/350 | Stardust: 76 755
+[02:36:25] Egg (2km) need to walk 1,71 km.
+[02:36:25] Egg (5km) need to walk 2,58 km.
+[02:36:25] Egg (10km) need to walk 2,47 km.
+[02:36:29] Transfer Rattata CP 50 IV 40,89 % (Best IV: 71,20 %)
+[02:36:32] Next Pokestop: Alexandre Combattant, Jardin des Tuileries  in 36,91m distance.
+[02:36:32] Distance to target location: 36,91 meters. Will take 6,99 seconds!
+[02:36:34] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:37:32] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:37:35] Next Pokestop: Paris, Jardin des Tuileries, s in 56,08m distance.
+[02:37:35] Distance to target location: 56,08 meters. Will take 10,63 seconds!
+[02:37:42] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:37:46] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion, 1 x ItemUltraBall
+[02:37:49] Next Pokestop: Cassandre Se Met Sous La Protection De Pallas in 60,88m distance.
+[02:37:49] Distance to target location: 60,88 meters. Will take 18,26 seconds!
+[02:40:18] Exception: System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProto>d__2`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 98
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 76
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 0
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Player.<UpdatePlayerLocation>d__1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Player.cs:ligne 41
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Navigation.<HumanLikeWalking>d__5.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Navigation.cs:ligne 90
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<ExecuteFarmingPokestopsAndPokemons>d__17.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 429
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<PostLoginExecute>d__10.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 149
+[02:40:18] Starting again in 10 seconds...
+[02:42:19] Export Player Infos and all Pokemons to CSV not possible. File seems be in use!
+[02:42:32] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:42:32] Level/EXP: 21 | 68 545/75 000 (91,39%) | EXP to Level up: 6455
+[02:42:32] PokeStops visited: 1021 | KM Walked: 37,74
+[02:42:33] Pokemon: 165 + 9 Eggs /250 (0 Evolvable)
+[02:42:33] Pokedex Completion: 81/150 [54%]
+[02:42:33] Items: 327/350 | Stardust: 76 755
+[02:42:36] Egg (2km) need to walk 1,62 km.
+[02:42:36] Egg (5km) need to walk 2,49 km.
+[02:42:36] Egg (10km) need to walk 2,37 km.
+[02:42:39] Recycled 15x ItemPokeBall
+[02:42:40] Recycled 8x ItemGreatBall
+[02:42:41] Recycled 3x ItemPotion
+[02:42:43] Recycled 2x ItemSuperPotion
+[02:42:44] Recycled 3x ItemRevive
+[02:42:45] We found 228 usable PokeStops near your current location.
+[02:42:47] Next Pokestop: Paris, Jardin des Tuileries, s in 20,72m distance.
+[02:42:47] Distance to target location: 20,72 meters. Will take 5,33 seconds!
+[02:42:49] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:42:52] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[02:42:55] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:42:55] Level/EXP: 21 | 68 595/75 000 (91,46%) | EXP to Level up: 6405
+[02:42:55] PokeStops visited: 1022 | KM Walked: 37,74
+[02:42:56] Pokemon: 165 + 9 Eggs /250 (0 Evolvable)
+[02:42:56] Pokedex Completion: 81/150 [54%]
+[02:42:56] Items: 327/350 | Stardust: 76 755
+[02:44:38]    à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProto>d__2`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 98
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 66
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__6`2.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 0
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Inventory.<GetInventory>d__13.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Inventory.cs:ligne 171
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Inventory.<GetEggs>d__6.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Inventory.cs:ligne 104
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<StartIncubation>d__20.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 717
+[02:44:45] Next Pokestop: Cassandre Se Met Sous La Protection De Pallas in 41,98m distance.
+[02:44:45] Distance to target location: 41,98 meters. Will take 8,89 seconds!
+[02:44:46] Found 1 catchable Pokemon(s).
+[02:44:48] Encountered Psyduck CP 343  IV 54,27% Probability 43%
+[02:44:48] Psyduck escaped while using ItemPokeBall
+[02:44:49] Caught Psyduck CP 343 IV 54,27% using ItemPokeBall got 210 XP.
+[02:44:52] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:44:53] Found 1 catchable Pokemon(s).
+[02:44:55] Encountered Rattata CP 10  IV 49,94% Probability 100%
+[02:44:56] Caught Rattata CP 10 IV 49,94% using ItemPokeBall got 210 XP.
+[02:45:00] Found 1 catchable Pokemon(s).
+[02:45:02] Encountered Rattata CP 292  IV 44,37% Probability 33%
+[02:45:10] Thrown ItemRazzBerry. Remaining: 64.
+[02:45:11] Caught Rattata CP 292 IV 44,37% using ItemPokeBall got 210 XP.
+[02:45:14] Farmed XP: 50, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:45:18] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:45:18] Level/EXP: 21 | 69 275/75 000 (92,37%) | EXP to Level up: 5725
+[02:45:18] PokeStops visited: 1023 | KM Walked: 37,74
+[02:45:19] Pokemon: 168 + 9 Eggs /250 (0 Evolvable)
+[02:45:19] Pokedex Completion: 81/150 [54%]
+[02:45:20] Items: 330/350 | Stardust: 77 055
+[02:45:23] Egg (2km) need to walk 1,62 km.
+[02:45:23] Egg (5km) need to walk 2,49 km.
+[02:45:23] Egg (10km) need to walk 2,37 km.
+[02:45:25] Transfer Rattata CP 225 IV 47,86 % (Best IV: 71,20 %)
+[02:45:26] Transfer Rattata CP 292 IV 44,37 % (Best IV: 71,20 %)
+[02:45:28] Next Pokestop: Fontaine Qui Coule in 42,39m distance.
+[02:45:28] Distance to target location: 42,39 meters. Will take 16,96 seconds!
+[02:45:30] Found 1 catchable Pokemon(s).
+[02:45:32] Encountered Pidgey CP 112  IV 44,23% Probability 57%
+[02:45:33] Caught Pidgey CP 112 IV 44,23% using ItemPokeBall got 210 XP.
+[02:45:42] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[02:45:44] Next Pokestop: Parc des Tuilleries, 2006 in 62,32m distance.
+[02:45:44] Distance to target location: 62,32 meters. Will take 14,96 seconds!
+[02:47:31] Exception: System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProto>d__2`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 98
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__0`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 42
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__12`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 77
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__11`6.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 71
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Map.<GetMapObjects>d__1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Map.cs:ligne 68
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<ExecuteCatchAllNearbyPokemons>d__18.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 519
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Navigation.<HumanLikeWalking>d__5.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Navigation.cs:ligne 95
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<ExecuteFarmingPokestopsAndPokemons>d__17.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 429
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<PostLoginExecute>d__10.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 149
+[02:47:31] Starting again in 10 seconds...
+[02:47:52] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[02:47:54] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:47:54] Level/EXP: 21 | 69 535/75 000 (92,71%) | EXP to Level up: 5465
+[02:47:54] PokeStops visited: 1024 | KM Walked: 37,74
+[02:47:55] Pokemon: 167 + 9 Eggs /250 (0 Evolvable)
+[02:47:55] Pokedex Completion: 81/150 [54%]
+[02:47:56] Items: 329/350 | Stardust: 77 155
+[02:47:59] Egg (2km) need to walk 1,62 km.
+[02:47:59] Egg (5km) need to walk 2,49 km.
+[02:47:59] Egg (10km) need to walk 2,37 km.
+[02:48:01] Recycled 3x ItemGreatBall
+[02:48:02] Recycled 2x ItemPotion
+[02:48:03] Recycled 1x ItemRevive
+[02:48:05] We can't find any PokeStops in a range of 10000m!
+[02:48:05] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[02:48:06] Walking back to default location.
+[02:48:06] Distance to target location: 702,5 meters. Will take 180,64 seconds!
+[02:51:50] Exception: System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProto>d__2`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 98
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__0`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Extensions\HttpClientExtensions.cs:ligne 42
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__12`1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 77
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__11`6.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\BaseRpc.cs:ligne 71
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Rpc.Map.<GetMapObjects>d__1.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI\Rpc\Map.cs:ligne 68
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<ExecuteCatchAllNearbyPokemons>d__18.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 519
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Navigation.<HumanLikeWalking>d__5.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Navigation.cs:ligne 95
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<ExecuteFarmingPokestopsAndPokemons>d__17.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 511
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à PokemonGo.RocketAPI.Logic.Logic.<PostLoginExecute>d__10.MoveNext() dans C:\Users\Ari\Desktop\PokemonGo Bot\Github\PokemonGo-Bot\PokemonGo.RocketAPI.Logic\Logic.cs:ligne 149
+[02:51:50] Starting again in 10 seconds...
+[02:52:03] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[02:52:05] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:52:05] Level/EXP: 21 | 69 535/75 000 (92,71%) | EXP to Level up: 5465
+[02:52:05] PokeStops visited: 1024 | KM Walked: 37,74
+[02:52:06] Pokemon: 167 + 9 Eggs /250 (0 Evolvable)
+[02:52:06] Pokedex Completion: 81/150 [54%]
+[02:52:06] Items: 329/350 | Stardust: 77 155
+[02:52:09] Egg (2km) need to walk 1,62 km.
+[02:52:09] Egg (5km) need to walk 2,49 km.
+[02:52:09] Egg (10km) need to walk 2,37 km.
+[02:52:12] We found 206 usable PokeStops near your current location.
+[02:52:14] Next Pokestop: Place de la Concorde - Jardin  in 18,73m distance.
+[02:52:14] Distance to target location: 18,73 meters. Will take 4,82 seconds!
+[02:52:15] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:52:17] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:52:20] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:52:20] Level/EXP: 21 | 69 585/75 000 (92,78%) | EXP to Level up: 5415
+[02:52:20] PokeStops visited: 1025 | KM Walked: 37,74
+[02:52:21] Pokemon: 167 + 9 Eggs /250 (0 Evolvable)
+[02:52:21] Pokedex Completion: 81/150 [54%]
+[02:52:22] Items: 329/350 | Stardust: 77 155
+[02:52:25] Egg (2km) need to walk 1,62 km.
+[02:52:25] Egg (5km) need to walk 2,49 km.
+[02:52:25] Egg (10km) need to walk 2,37 km.
+[02:52:27] Next Pokestop: Annibal, Jardin des Tuileries in 28,86m distance.
+[02:52:27] Distance to target location: 28,86 meters. Will take 6,93 seconds!
+[02:52:28] Found 2 catchable Pokemon(s).
+[02:52:30] Encountered Eevee CP 401  IV 39,94% Probability 31%
+[02:52:35] Thrown ItemRazzBerry. Remaining: 64.
+[02:52:35] Caught Eevee CP 401 IV 39,94% using ItemPokeBall got 210 XP.
+[02:52:39] Encountered Tangela CP 749  IV 66,60% Probability 30%
+[02:52:42] Thrown ItemRazzBerry. Remaining: 63.
+[02:52:43] Caught Tangela CP 749 IV 66,60% using ItemGreatBall got 210 XP.
+[02:52:45] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:52:47] Farmed XP: 50, Items: 3 x ItemPokeBall
+[02:52:51] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:52:51] Level/EXP: 21 | 70 055/75 000 (93,41%) | EXP to Level up: 4945
+[02:52:51] PokeStops visited: 1026 | KM Walked: 37,74
+[02:52:51] Pokemon: 167 + 9 Eggs /250 (0 Evolvable)
+[02:52:51] Pokedex Completion: 81/150 [54%]
+[02:52:52] Items: 331/350 | Stardust: 77 355
+[02:52:54] Egg (2km) need to walk 1,62 km.
+[02:52:54] Egg (5km) need to walk 2,49 km.
+[02:52:54] Egg (10km) need to walk 2,37 km.
+[02:52:56] Transfer Tangela CP 352 IV 41,97 % (Best IV: 78,27 %)
+[02:52:58] Next Pokestop: Vertumne Jardin des Tuileries in 48,07m distance.
+[02:52:58] Distance to target location: 48,07 meters. Will take 14,42 seconds!
+[02:53:03] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:53:09] Farmed XP: 50, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemRazzBerry
+[02:53:11] Next Pokestop: Le Nil, Jardin des Tuileries in 81,85m distance.
+[02:53:11] Distance to target location: 81,85 meters. Will take 19,64 seconds!
+[02:53:22] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:53:26] Found 2 catchable Pokemon(s).
+[02:53:28] Encountered Eevee CP 13  IV 51,60% Probability 100%
+[02:53:29] Caught Eevee CP 13 IV 51,60% using ItemPokeBall got 210 XP.
+[02:53:32] Encountered Bulbasaur CP 13  IV 55,44% Probability 85%
+[02:53:33] Caught Bulbasaur CP 13 IV 55,44% using ItemPokeBall got 210 XP.
+[02:53:37] Farmed XP: 100, Items: 5 x ItemPokeBall, 1 x ItemPotion
+[02:53:42] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:53:42] Level/EXP: 21 | 70 625/75 000 (94,17%) | EXP to Level up: 4375
+[02:53:42] PokeStops visited: 1028 | KM Walked: 38,14
+[02:53:42] Pokemon: 170 + 9 Eggs /250 (0 Evolvable)
+[02:53:42] Pokedex Completion: 81/150 [54%]
+[02:53:43] Items: 332/350 | Stardust: 77 555
+[02:53:46] Egg (2km) need to walk 1,22 km.
+[02:53:46] Egg (5km) need to walk 2,09 km.
+[02:53:46] Egg (10km) need to walk 1,97 km.
+[02:53:48] Transfer Eevee CP 204 IV 27,40 % (Best IV: 51,60 %)
+[02:53:50] Next Pokestop: Grande roue de la Concorde in 57,06m distance.
+[02:53:50] Distance to target location: 57,06 meters. Will take 22,82 seconds!
+[02:54:04] Found 1 catchable Pokemon(s).
+[02:54:06] Encountered Pinsir CP 839  IV 51,42% Probability 23%
+[02:54:10] Thrown ItemRazzBerry. Remaining: 63.
+[02:54:10] Pinsir escaped while using ItemGreatBall
+[02:54:15] Thrown ItemRazzBerry. Remaining: 63.
+[02:54:16] Caught Pinsir CP 839 IV 51,42% using ItemGreatBall got 210 XP.
+[02:54:19] Farmed XP: 50, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:54:21] Next Pokestop: André Le Nôtre in 57,23m distance.
+[02:54:21] Distance to target location: 57,23 meters. Will take 20,6 seconds!
+[02:54:38] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:54:38] Level/EXP: 21 | 70 885/75 000 (94,51%) | EXP to Level up: 4115
+[02:54:38] PokeStops visited: 1029 | KM Walked: 38,14
+[02:54:38] Pokemon: 170 + 9 Eggs /250 (0 Evolvable)
+[02:54:38] Pokedex Completion: 81/150 [54%]
+[02:54:39] Items: 332/350 | Stardust: 77 655
+[02:54:42] Egg (2km) need to walk 1,22 km.
+[02:54:42] Egg (5km) need to walk 2,09 km.
+[02:54:42] Egg (10km) need to walk 1,97 km.
+[02:54:44] Transfer Pinsir CP 839 IV 51,42 % (Best IV: 95,25 %)
+[02:54:46] Next Pokestop: La Renommée montée sur Pégase, Jardin des Tuileries in 47,89m distance.
+[02:54:46] Distance to target location: 47,89 meters. Will take 10,78 seconds!
+[02:54:49] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:54:57] Next Pokestop: Grand Commandement Blanc 1985 in 66,17m distance.
+[02:54:57] Distance to target location: 66,17 meters. Will take 14,89 seconds!
+[02:55:04] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:55:11] Next Pokestop: Concorde - Lyon in 55,22m distance.
+[02:55:11] Distance to target location: 55,22 meters. Will take 28,4 seconds!
+[02:55:32] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:55:32] Level/EXP: 21 | 70 885/75 000 (94,51%) | EXP to Level up: 4115
+[02:55:32] PokeStops visited: 1029 | KM Walked: 38,14
+[02:55:32] Pokemon: 169 + 9 Eggs /250 (0 Evolvable)
+[02:55:32] Pokedex Completion: 81/150 [54%]
+[02:55:33] Items: 331/350 | Stardust: 77 655
+[02:55:36] Egg (2km) need to walk 1,22 km.
+[02:55:36] Egg (5km) need to walk 2,09 km.
+[02:55:36] Egg (10km) need to walk 1,97 km.
+[02:55:38] Next Pokestop: Marseille in 72,05m distance.
+[02:55:38] Distance to target location: 72,05 meters. Will take 15,26 seconds!
+[02:55:46] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:55:53] Next Pokestop: Histoire De Paris - Porte de la Conférence  in 90,54m distance.
+[02:55:53] Distance to target location: 90,54 meters. Will take 16,3 seconds!
+[02:56:05] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:56:10] Detected a softban. Trying to use our special 1337 unban methode.
+[02:56:43] Probably unbanned now.
+[02:56:45] Next Pokestop: Bateaux du port des Champs Elysées in 81,64m distance.
+[02:56:45] Distance to target location: 81,64 meters. Will take 18,37 seconds!
+[02:56:56] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:57:11] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:57:11] Level/EXP: 21 | 70 885/75 000 (94,51%) | EXP to Level up: 4115
+[02:57:11] PokeStops visited: 1029 | KM Walked: 38,14
+[02:57:12] Pokemon: 169 + 9 Eggs /250 (0 Evolvable)
+[02:57:12] Pokedex Completion: 81/150 [54%]
+[02:57:12] Items: 331/350 | Stardust: 77 655
+[02:57:15] Egg (2km) need to walk 1,22 km.
+[02:57:15] Egg (5km) need to walk 2,09 km.
+[02:57:15] Egg (10km) need to walk 1,97 km.
+[02:57:18] Next Pokestop: Obelisco Place De La Concorde in 112,68m distance.
+[02:57:18] Distance to target location: 112,68 meters. Will take 57,95 seconds!
+[02:58:09] Next Pokestop: Paris in 63,17m distance.
+[02:58:09] Distance to target location: 63,17 meters. Will take 25,27 seconds!
+[02:58:30] Next Pokestop: Cours La Reine in 52,46m distance.
+[02:58:30] Distance to target location: 52,46 meters. Will take 15,74 seconds!
+[02:58:34] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:58:45] -----------------------[PLAYER STATS UPDATE]-----------------------
+[02:58:45] Level/EXP: 21 | 70 885/75 000 (94,51%) | EXP to Level up: 4115
+[02:58:45] PokeStops visited: 1029 | KM Walked: 38,14
+[02:58:46] Pokemon: 169 + 9 Eggs /250 (0 Evolvable)
+[02:58:46] Pokedex Completion: 81/150 [54%]
+[02:58:46] Items: 331/350 | Stardust: 77 655
+[02:58:50] Egg (2km) need to walk 1,22 km.
+[02:58:50] Egg (5km) need to walk 2,09 km.
+[02:58:50] Egg (10km) need to walk 1,97 km.
+[02:58:53] Next Pokestop: Albert I in 69,8m distance.
+[02:58:53] Distance to target location: 69,8 meters. Will take 14,78 seconds!
+[02:59:00] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:59:08] Next Pokestop: Gloriette in 108,92m distance.
+[02:59:08] Distance to target location: 108,92 meters. Will take 26,14 seconds!
+[02:59:28] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[02:59:31] Detected a softban. Trying to use our special 1337 unban methode.
+[03:00:07] Probably unbanned now.
+[03:00:08] Next Pokestop: Fontaine Wallace a Proximite De La Concorde in 75,21m distance.
+[03:00:08] Distance to target location: 75,21 meters. Will take 33,85 seconds!
+[12:09:00] This bot is absolutely free and open-source!
+[12:09:00] If you've paid for it. Request a chargeback immediately!
+[12:09:00] Starting Execute on login server: Google
+[12:09:00] ===============================================
+[12:09:00] Proxy enabled.
+[12:09:00] ProxyIP: 46.101.2.149:8118
+[12:09:00] ===============================================
+[12:10:38] This bot is absolutely free and open-source!
+[12:10:38] If you've paid for it. Request a chargeback immediately!
+[12:10:38] Starting Execute on login server: Google
+[12:10:38] ===============================================
+[12:10:38] Proxy enabled.
+[12:10:38] ProxyIP: 194.2.209.208:80
+[12:10:38] ===============================================
+[12:11:00] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:11:02] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:11:02] Level/EXP: 22 | 290/100 000 (0,29%) | EXP to Level up: 99710
+[12:11:02] PokeStops visited: 1029 | KM Walked: 38,81
+[12:11:02] Pokemon: 178 + 9 Eggs /250 (0 Evolvable)
+[12:11:02] Pokedex Completion: 86/150 [57%]
+[12:11:02] Items: 348/350 | Stardust: 70 555
+[12:11:06] Egg (2km) need to walk 0,55 km.
+[12:11:06] Egg (5km) need to walk 1,42 km.
+[12:11:06] Egg (10km) need to walk 1,3 km.
+[12:11:09] Transfer Haunter CP 541 IV 28,38 % (Best IV: 64,10 %)
+[12:11:10] Recycled 3x ItemPokeBall
+[12:11:11] Recycled 1x ItemPotion
+[12:11:12] Recycled 10x ItemHyperPotion
+[12:11:13] Recycled 12x ItemRevive
+[12:11:14] We can't find any PokeStops in a range of 10000m!
+[12:13:32] This bot is absolutely free and open-source!
+[12:13:32] If you've paid for it. Request a chargeback immediately!
+[12:13:32] Starting Execute on login server: Google
+[12:13:32] Altidude was 0, resolved that. New Altidude is now: 9,08295407129206
+[12:13:32] ===============================================
+[12:13:32] Proxy enabled.
+[12:13:32] ProxyIP: 194.2.209.208:80
+[12:13:32] ===============================================
+[12:14:06] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:14:09] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:14:09] Level/EXP: 22 | 290/100 000 (0,29%) | EXP to Level up: 99710
+[12:14:09] PokeStops visited: 1029 | KM Walked: 38,81
+[12:14:09] Pokemon: 177 + 9 Eggs /250 (0 Evolvable)
+[12:14:09] Pokedex Completion: 86/150 [57%]
+[12:14:09] Items: 347/350 | Stardust: 70 555
+[12:14:12] Egg (2km) need to walk 0,55 km.
+[12:14:12] Egg (5km) need to walk 1,42 km.
+[12:14:12] Egg (10km) need to walk 1,3 km.
+[12:14:13] Transfer Exeggutor CP 754 IV 20,30 % (Best IV: 54,79 %)
+[12:14:14] Transfer Pidgeotto CP 573 IV 82,20 % (Best IV: 84,35 %)
+[12:14:16] Transfer Staryu CP 329 IV 77,17 % (Best IV: 94,39 %)
+[12:14:17] Transfer Squirtle CP 239 IV 25,41 % (Best IV: 50,83 %)
+[12:14:18] Transfer Ekans CP 114 IV 37,53 % (Best IV: 54,84 %)
+[12:14:19] Transfer Pidgeot CP 698 IV 35,71 % (Best IV: 50,64 %)
+[12:14:20] Transfer Psyduck CP 472 IV 19,57 % (Best IV: 54,27 %)
+[12:14:21] Transfer Goldeen CP 412 IV 71,25 % (Best IV: 78,20 %)
+[12:14:22] Transfer Bulbasaur CP 229 IV 24,96 % (Best IV: 95,13 %)
+[12:14:23] Transfer Cubone CP 181 IV 66,91 % (Best IV: 76,26 %)
+[12:14:24] Transfer Fearow CP 261 IV 45,98 % (Best IV: 84,54 %)
+[12:14:24] Transfer Oddish CP 334 IV 28,28 % (Best IV: 62,50 %)
+[12:14:25] Transfer Tentacool CP 34 IV 36,09 % (Best IV: 94,15 %)
+[12:14:26] Transfer Eevee CP 401 IV 39,94 % (Best IV: 51,60 %)
+[12:14:28] Transfer Bellsprout CP 268 IV 27,38 % (Best IV: 65,45 %)
+[12:14:29] Transfer Weedle CP 49 IV 43,17 % (Best IV: 51,84 %)
+[12:14:30] Transfer Grimer CP 262 IV 53,22 % (Best IV: 68,72 %)
+[12:14:31] Transfer Pinsir CP 90 IV 76,46 % (Best IV: 95,25 %)
+[12:14:32] Transfer Haunter CP 306 IV 34,12 % (Best IV: 64,10 %)
+[12:14:33] Transfer Raticate CP 671 IV 77,30 % (Best IV: 79,44 %)
+[12:14:33] Transfer Tangela CP 749 IV 66,60 % (Best IV: 78,27 %)
+[12:14:34] Transfer Venonat CP 475 IV 53,75 % (Best IV: 74,21 %)
+[12:14:35] Transfer Exeggcute CP 214 IV 37,43 % (Best IV: 68,85 %)
+[12:14:36] Transfer Magikarp CP 104 IV 69,94 % (Best IV: 98,80 %)
+[12:14:37] Transfer Hitmonchan CP 373 IV 80,50 % (Best IV: 85,94 %)
+[12:14:38] Transfer Rattata CP 10 IV 49,94 % (Best IV: 71,20 %)
+[12:14:40] Transfer Krabby CP 293 IV 71,46 % (Best IV: 96,87 %)
+[12:14:42] Transfer NidoranMale CP 112 IV 21,11 % (Best IV: 50,86 %)
+[12:14:43] Transfer Pidgey CP 196 IV 40,81 % (Best IV: 46,38 %)
+[12:14:45] Transfer Diglett CP 150 IV 28,36 % (Best IV: 66,88 %)
+[12:14:45] Transfer Kakuna CP 165 IV 52,68 % (Best IV: 83,66 %)
+[12:14:46] Transfer Paras CP 325 IV 53,00 % (Best IV: 68,17 %)
+[12:14:47] Transfer Metapod CP 149 IV 51,46 % (Best IV: 63,58 %)
+[12:14:48] Transfer Horsea CP 269 IV 65,92 % (Best IV: 77,05 %)
+[12:14:49] Transfer Poliwag CP 378 IV 32,67 % (Best IV: 46,71 %)
+[12:14:50] Transfer Slowpoke CP 299 IV 32,78 % (Best IV: 50,21 %)
+[12:14:51] Transfer Poliwhirl CP 349 IV 55,25 % (Best IV: 80,75 %)
+[12:14:52] We can't find any PokeStops in a range of 10000m!
+[12:14:53] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:14:53] Walking back to default location.
+[12:14:53] Distance to target location: 0 meters. Will take 0 seconds!
+[12:15:14] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[12:15:15] Starting again in 10 seconds...
+[12:15:27] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:15:28] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:15:28] Level/EXP: 22 | 290/100 000 (0,29%) | EXP to Level up: 99710
+[12:15:28] PokeStops visited: 1029 | KM Walked: 38,81
+[12:15:29] Pokemon: 140 + 9 Eggs /250 (2 Evolvable)
+[12:15:29] Pokedex Completion: 86/150 [57%]
+[12:15:29] Items: 310/350 | Stardust: 70 555
+[12:15:31] Evolved Weedle CP 216 51,84%  to Kakuna CP: 233 for 500xp
+[12:15:33] Evolved Caterpie CP 78 71,70%  to Metapod CP: 85 for 500xp
+[12:15:36] Egg (2km) need to walk 0,55 km.
+[12:15:36] Egg (5km) need to walk 1,42 km.
+[12:15:36] Egg (10km) need to walk 1,3 km.
+[12:15:38] Transfer Kakuna CP 233 IV 50,25 % (Best IV: 83,66 %)
+[12:15:39] Transfer Metapod CP 105 IV 56,83 % (Best IV: 73,47 %)
+[12:15:40] We can't find any PokeStops in a range of 10000m!
+[12:15:41] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:15:41] Walking back to default location.
+[12:15:41] Distance to target location: 0,01 meters. Will take 0 seconds!
+[12:15:42] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[12:15:44] Starting again in 10 seconds...
+[12:15:44] Unbanning you at next Pokestop.
+[12:16:07] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:16:09] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:16:09] Level/EXP: 22 | 1 290/100 000 (1,29%) | EXP to Level up: 98710
+[12:16:09] PokeStops visited: 1029 | KM Walked: 38,81
+[12:16:09] Pokemon: 138 + 9 Eggs /250 (0 Evolvable)
+[12:16:09] Pokedex Completion: 86/150 [57%]
+[12:16:09] Items: 308/350 | Stardust: 70 555
+[12:16:13] Egg (2km) need to walk 0,55 km.
+[12:16:13] Egg (5km) need to walk 1,42 km.
+[12:16:13] Egg (10km) need to walk 1,3 km.
+[12:16:15] We can't find any PokeStops in a range of 10000m!
+[12:16:15] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:16:16] Walking back to default location.
+[12:16:16] Distance to target location: 0 meters. Will take 0 seconds!
+[12:16:17] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[12:16:18] Starting again in 10 seconds...
+[12:16:23] Unbanning you at next Pokestop.
+[12:16:31] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:16:33] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:16:33] Level/EXP: 22 | 1 290/100 000 (1,29%) | EXP to Level up: 98710
+[12:16:33] PokeStops visited: 1029 | KM Walked: 38,81
+[12:16:33] Pokemon: 138 + 9 Eggs /250 (0 Evolvable)
+[12:16:33] Pokedex Completion: 86/150 [57%]
+[12:16:34] Items: 308/350 | Stardust: 70 555
+[12:16:36] Egg (2km) need to walk 0,55 km.
+[12:16:36] Egg (5km) need to walk 1,42 km.
+[12:16:36] Egg (10km) need to walk 1,3 km.
+[12:16:38] We can't find any PokeStops in a range of 10000m!
+[12:16:39] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:16:40] Walking back to default location.
+[12:16:40] Distance to target location: 0,33 meters. Will take 0,12 seconds!
+[12:26:12] Unable to check for updates now...
+[12:26:12] This bot is absolutely free and open-source!
+[12:26:12] If you've paid for it. Request a chargeback immediately!
+[12:26:12] Starting Execute on login server: Google
+[12:26:13] Altidude was 0, resolved that. New Altidude is now: 9,43881776338557
+[12:26:13] ===============================================
+[12:26:13] Proxy enabled.
+[12:26:13] ProxyIP: 194.2.209.208:80
+[12:26:13] ===============================================
+[12:26:31] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:26:32] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:26:32] Level/EXP: 3 | 1 600/3 000 (53,33%) | EXP to Level up: 1400
+[12:26:32] PokeStops visited: 2 | KM Walked: 0,12
+[12:26:33] Pokemon: 9 + 1 Eggs /250 (0 Evolvable)
+[12:26:33] Pokedex Completion: 7/150 [4%]
+[12:26:33] Items: 30/350 | Stardust: 900
+[12:26:36] Added Egg which needs 5km
+[12:26:39] Recycled 41x ItemPokeBall
+[12:26:40] We can't find any PokeStops in a range of 10000m!
+[12:26:40] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:26:40] Walking back to default location.
+[12:26:40] Distance to target location: 0 meters. Will take 0 seconds!
+[12:26:43] Starting again in 10 seconds...
+[12:26:54] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:26:57] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:26:57] Level/EXP: 3 | 1 600/3 000 (53,33%) | EXP to Level up: 1400
+[12:26:57] PokeStops visited: 2 | KM Walked: 0,12
+[12:26:58] Pokemon: 9 + 1 Eggs /250 (0 Evolvable)
+[12:26:58] Pokedex Completion: 7/150 [4%]
+[12:26:59] Items: 30/350 | Stardust: 900
+[12:27:16] Egg (5km) need to walk 5 km.
+[12:27:18] We can't find any PokeStops in a range of 10000m!
+[12:27:19] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:27:20] Walking back to default location.
+[12:27:20] Distance to target location: 1,22 meters. Will take 0,44 seconds!
+[12:27:23] Starting again in 10 seconds...
+[12:27:37] Export Player Infos and all Pokemon to "\Config\PokemonList.csv"
+[12:27:38] -----------------------[PLAYER STATS UPDATE]-----------------------
+[12:27:38] Level/EXP: 3 | 1 600/3 000 (53,33%) | EXP to Level up: 1400
+[12:27:38] PokeStops visited: 2 | KM Walked: 0,12
+[12:27:38] Pokemon: 9 + 1 Eggs /250 (0 Evolvable)
+[12:27:38] Pokedex Completion: 7/150 [4%]
+[12:27:38] Items: 30/350 | Stardust: 900
+[12:27:42] Egg (5km) need to walk 5 km.
+[12:27:43] We can't find any PokeStops in a range of 10000m!
+[12:27:44] We can't find any PokeStops, which are unused! Probably the server are unstable, or you visted them all. Retrying..
+[12:27:45] Walking back to default location.
+[12:27:45] Distance to target location: 0 meters. Will take 0 seconds!
+[12:27:46] We are within 40 meters of the target. Slowing down to ~10 km/h to not pass the target.
+[12:27:47] Starting again in 10 seconds...
